@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2017-11-03T12:29:02Z"/>
+<meta osm_base="2017-11-03T16:07:02Z"/>
 
   <relation id="1084111" version="10" timestamp="2017-03-31T12:40:01Z" changeset="47324247" uid="2678395" user="arturogutipi">
     <member type="way" ref="76589647" role=""/>
@@ -49,7 +49,7 @@
     <tag k="type" v="route"/>
     <tag k="wikipedia" v="es:Ruta Nacional 56 (Colombia)"/>
   </relation>
-  <relation id="4511513" version="12" timestamp="2017-09-11T18:34:03Z" changeset="51950884" uid="4494325" user="JLOSM">
+  <relation id="4511513" version="13" timestamp="2017-11-03T15:07:40Z" changeset="53481454" uid="2533093" user="carciofo">
     <member type="way" ref="163509517" role=""/>
     <member type="way" ref="44708520" role=""/>
     <member type="way" ref="203542574" role=""/>
@@ -95,9 +95,9 @@
     <member type="way" ref="460205372" role="forward"/>
     <member type="way" ref="460205373" role="forward"/>
     <member type="way" ref="460201752" role=""/>
+    <tag k="description" v="Tramo La Mansa-Amagá (Ruta 25)"/>
     <tag k="name" v="60-03"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo La Mansa-Amagá (Ruta 25)"/>
     <tag k="ref" v="60"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
@@ -119,7 +119,7 @@
     <tag k="type" v="route"/>
     <tag k="wikipedia" v="es:Ruta Nacional 60 (Colombia)"/>
   </relation>
-  <relation id="4536391" version="2" timestamp="2015-05-30T11:40:35Z" changeset="31582544" uid="2533093" user="carciofo">
+  <relation id="4536391" version="3" timestamp="2017-11-03T15:07:41Z" changeset="53481454" uid="2533093" user="carciofo">
     <member type="way" ref="44811195" role=""/>
     <member type="way" ref="231293006" role=""/>
     <member type="way" ref="231292836" role=""/>
@@ -149,15 +149,15 @@
     <member type="way" ref="163507860" role=""/>
     <member type="way" ref="163507856" role=""/>
     <member type="way" ref="324991697" role=""/>
+    <tag k="description" v="Tramo Quibdó-La Mansa"/>
     <tag k="name" v="60-02"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Quibdó-La Mansa"/>
     <tag k="operator" v="Invias"/>
     <tag k="ref" v="60"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4536392" version="7" timestamp="2017-10-05T13:15:37Z" changeset="52654472" uid="2533093" user="carciofo">
+  <relation id="4536392" version="8" timestamp="2017-11-03T15:07:41Z" changeset="53481454" uid="2533093" user="carciofo">
     <member type="way" ref="478525933" role=""/>
     <member type="way" ref="324769041" role=""/>
     <member type="way" ref="36806137" role="forward"/>
@@ -192,9 +192,9 @@
     <member type="way" ref="324769047" role="forward"/>
     <member type="way" ref="430191776" role=""/>
     <member type="way" ref="440691383" role=""/>
+    <tag k="description" v="Tramo Medellin-Santuario"/>
     <tag k="name" v="60-04"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Medellin-Santuario"/>
     <tag k="ref" v="60"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
@@ -386,7 +386,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4538355" version="5" timestamp="2017-06-13T12:04:46Z" changeset="49497976" uid="2533093" user="carciofo">
+  <relation id="4538355" version="6" timestamp="2017-11-03T15:07:42Z" changeset="53481454" uid="2533093" user="carciofo">
     <member type="way" ref="325168507" role=""/>
     <member type="way" ref="376697003" role=""/>
     <member type="way" ref="376697004" role=""/>
@@ -416,14 +416,14 @@
     <member type="way" ref="310654466" role=""/>
     <member type="way" ref="340300652" role=""/>
     <member type="way" ref="200648553" role=""/>
+    <tag k="description" v="Tramo Ruta 45 (Doce y Medio) - Otanche"/>
     <tag k="name" v="60-06"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Trayecto Ruta 45 (Doce y Medio)-Otanche"/>
     <tag k="ref" v="60"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4538356" version="6" timestamp="2016-06-04T15:00:07Z" changeset="39798763" uid="2533093" user="carciofo">
+  <relation id="4538356" version="7" timestamp="2017-11-03T15:07:42Z" changeset="53481454" uid="2533093" user="carciofo">
     <member type="way" ref="107492162" role=""/>
     <member type="way" ref="422681263" role=""/>
     <member type="way" ref="107492104" role=""/>
@@ -446,14 +446,14 @@
     <member type="way" ref="422824211" role=""/>
     <member type="way" ref="422824210" role=""/>
     <member type="way" ref="340300653" role=""/>
+    <tag k="description" v="Tramo Otanche-Chiquinquirá"/>
     <tag k="name" v="60-07"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Trayecto Otanche-Chiquinquirá"/>
     <tag k="ref" v="60"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4538666" version="4" timestamp="2016-01-30T17:11:11Z" changeset="36901743" uid="77400" user="Leonardo Gutierrez">
+  <relation id="4538666" version="5" timestamp="2017-11-03T15:07:43Z" changeset="53481454" uid="2533093" user="carciofo">
     <member type="way" ref="325209965" role=""/>
     <member type="way" ref="42447845" role=""/>
     <member type="way" ref="77375622" role=""/>
@@ -471,14 +471,14 @@
     <member type="way" ref="133123143" role=""/>
     <member type="way" ref="128763496" role=""/>
     <member type="way" ref="128661258" role=""/>
+    <tag k="description" v="Tramo Chiquinquirá-Tunja"/>
     <tag k="name" v="60-08"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Trayecto Chiquinquirá-Tunja"/>
     <tag k="ref" v="60"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4538862" version="11" timestamp="2017-06-27T09:36:40Z" changeset="49856926" uid="2533093" user="carciofo">
+  <relation id="4538862" version="12" timestamp="2017-11-03T15:07:43Z" changeset="53481454" uid="2533093" user="carciofo">
     <member type="way" ref="197657382" role=""/>
     <member type="way" ref="325228593" role=""/>
     <member type="way" ref="197657403" role=""/>
@@ -525,9 +525,9 @@
     <member type="way" ref="503531871" role=""/>
     <member type="way" ref="503531872" role=""/>
     <member type="way" ref="500297863" role=""/>
+    <tag k="description" v="Tramo Tunja-Páez"/>
     <tag k="name" v="60-09"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Trayecto Tunja-Páez"/>
     <tag k="ref" v="60"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
@@ -545,15 +545,17 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4546436" version="10" timestamp="2017-10-03T21:32:52Z" changeset="52609206" uid="2533093" user="carciofo">
+  <relation id="4546436" version="11" timestamp="2017-11-03T14:29:23Z" changeset="53480591" uid="2533093" user="carciofo">
     <member type="relation" ref="4546435" role=""/>
     <member type="relation" ref="4546557" role=""/>
     <member type="relation" ref="4749424" role=""/>
+    <member type="relation" ref="7705775" role=""/>
     <member type="relation" ref="4749425" role=""/>
-    <member type="relation" ref="6384715" role=""/>
+    <member type="relation" ref="7705776" role=""/>
     <member type="relation" ref="6393056" role=""/>
     <member type="relation" ref="7625527" role=""/>
     <member type="relation" ref="6583967" role=""/>
+    <member type="relation" ref="6384715" role=""/>
     <member type="relation" ref="4743220" role=""/>
     <member type="relation" ref="7380932" role=""/>
     <member type="relation" ref="7625526" role=""/>
@@ -633,7 +635,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4552927" version="12" timestamp="2017-07-14T14:33:04Z" changeset="50284954" uid="1808029" user="Yazhubal">
+  <relation id="4552927" version="13" timestamp="2017-11-03T15:07:43Z" changeset="53481454" uid="2533093" user="carciofo">
     <member type="way" ref="326106357" role=""/>
     <member type="way" ref="507538927" role=""/>
     <member type="way" ref="507579788" role=""/>
@@ -669,15 +671,15 @@
     <member type="way" ref="492472657" role=""/>
     <member type="way" ref="146013706" role=""/>
     <member type="way" ref="326106355" role=""/>
+    <tag k="description" v="Tramo Turbo-Chigorodó"/>
     <tag k="distance" v="170.5"/>
     <tag k="name" v="62-01"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Turbo-Chigorodó"/>
     <tag k="ref" v="62"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4552928" version="12" timestamp="2017-08-25T03:15:30Z" changeset="51422907" uid="4494325" user="JLOSM">
+  <relation id="4552928" version="13" timestamp="2017-11-03T15:07:44Z" changeset="53481454" uid="2533093" user="carciofo">
     <member type="way" ref="466494519" role=""/>
     <member type="way" ref="49578784" role=""/>
     <member type="way" ref="518474337" role=""/>
@@ -752,15 +754,15 @@
     <member type="way" ref="492472603" role=""/>
     <member type="way" ref="447307588" role=""/>
     <member type="way" ref="467674848" role=""/>
+    <tag k="description" v="Tramo Chigorodó-Dabeiba"/>
     <tag k="distance" v="211.25"/>
     <tag k="name" v="62-02"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Chigorodó-Dabeiba"/>
     <tag k="ref" v="62"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4552929" version="7" timestamp="2017-09-09T22:22:18Z" changeset="51893620" uid="4494325" user="JLOSM">
+  <relation id="4552929" version="8" timestamp="2017-11-03T15:07:44Z" changeset="53481454" uid="2533093" user="carciofo">
     <member type="way" ref="492472555" role=""/>
     <member type="way" ref="492472552" role=""/>
     <member type="way" ref="466813423" role=""/>
@@ -804,15 +806,15 @@
     <member type="way" ref="320460457" role=""/>
     <member type="way" ref="40748344" role=""/>
     <member type="way" ref="45668024" role=""/>
+    <tag k="description" v="Tramo Dabeiba-Santafé de Antioquia"/>
     <tag k="distance" v="114.43"/>
     <tag k="name" v="62-03"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Dabeiba-Santafé de Antioquia"/>
     <tag k="ref" v="62"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4552930" version="9" timestamp="2017-05-21T19:30:45Z" changeset="48868791" uid="4494325" user="JLOSM">
+  <relation id="4552930" version="10" timestamp="2017-11-03T15:07:45Z" changeset="53481454" uid="2533093" user="carciofo">
     <member type="way" ref="32555151" role=""/>
     <member type="way" ref="424073425" role=""/>
     <member type="way" ref="320102415" role=""/>
@@ -914,10 +916,10 @@
     <member type="way" ref="495058325" role="forward"/>
     <member type="way" ref="320096054" role="forward"/>
     <member type="way" ref="320096027" role="forward"/>
+    <tag k="description" v="Tramo Santafé de Antioquia-Medellin"/>
     <tag k="distance" v="70.9"/>
     <tag k="name" v="62-04"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Santafé de Antioquia-Medellin"/>
     <tag k="ref" v="62"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
@@ -1437,7 +1439,7 @@
     <tag k="type" v="route"/>
     <tag k="unsigned_ref" v="56 AN 01"/>
   </relation>
-  <relation id="4749424" version="7" timestamp="2017-10-21T13:28:35Z" changeset="53128207" uid="2533093" user="carciofo">
+  <relation id="4749424" version="8" timestamp="2017-11-03T15:16:07Z" changeset="53481691" uid="2533093" user="carciofo">
     <member type="way" ref="325784964" role=""/>
     <member type="way" ref="182395646" role=""/>
     <member type="way" ref="325784970" role=""/>
@@ -1473,7 +1475,7 @@
     <member type="way" ref="374420212" role=""/>
     <member type="way" ref="374420211" role=""/>
     <member type="way" ref="376610316" role=""/>
-    <tag k="destination:lanes" v="Tramo Las Santa Cecilia - Asia"/>
+    <tag k="description" v="Tramo Las Santa Cecilia - Asia"/>
     <tag k="distance" v="78.10"/>
     <tag k="name" v="50-03"/>
     <tag k="network" v="co:national"/>
@@ -1977,7 +1979,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4765173" version="1" timestamp="2015-04-06T11:22:54Z" changeset="30012967" uid="2533093" user="carciofo">
+  <relation id="4765173" version="2" timestamp="2017-11-03T15:03:20Z" changeset="53481359" uid="2533093" user="carciofo">
     <member type="way" ref="93534530" role=""/>
     <member type="way" ref="219940299" role=""/>
     <member type="way" ref="219940301" role=""/>
@@ -1993,16 +1995,16 @@
     <member type="way" ref="336982286" role=""/>
     <member type="way" ref="294079210" role=""/>
     <member type="way" ref="294079339" role=""/>
+    <tag k="description" v="Tramo Puente Internacional San Miguel-Santa Ana"/>
     <tag k="distance" v="109"/>
     <tag k="name" v="45-01"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Puente Internacional San Miguel-Santa Ana"/>
     <tag k="operator" v="Invias"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4765174" version="19" timestamp="2017-05-05T21:43:32Z" changeset="48439004" uid="864211" user="NicoVargas">
+  <relation id="4765174" version="20" timestamp="2017-11-03T15:03:20Z" changeset="53481359" uid="2533093" user="carciofo">
     <member type="way" ref="361496515" role=""/>
     <member type="way" ref="361495275" role=""/>
     <member type="way" ref="361495274" role=""/>
@@ -2043,16 +2045,16 @@
     <member type="way" ref="484633664" role=""/>
     <member type="way" ref="484397855" role=""/>
     <member type="way" ref="37181723" role=""/>
+    <tag k="description" v="Tramo Santa Ana-Mocoa"/>
     <tag k="distance" v="77.23"/>
     <tag k="name" v="45-02"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Santa Ana-Mocoa"/>
     <tag k="operator" v="Invias"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4765175" version="28" timestamp="2017-09-30T17:44:31Z" changeset="52517673" uid="6552518" user="Kitol">
+  <relation id="4765175" version="29" timestamp="2017-11-03T15:03:21Z" changeset="53481359" uid="2533093" user="carciofo">
     <member type="way" ref="37197183" role=""/>
     <member type="way" ref="437515878" role=""/>
     <member type="way" ref="485405684" role=""/>
@@ -2118,16 +2120,16 @@
     <member type="way" ref="529031065" role="backward"/>
     <member type="way" ref="529031064" role="backward"/>
     <member type="way" ref="159115213" role="backward"/>
+    <tag k="description" v="Tramo Mocoa-Pitalito"/>
     <tag k="distance" v="135"/>
     <tag k="name" v="45-03"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Mocoa-Pitalito"/>
     <tag k="operator" v="Invias"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4765176" version="2" timestamp="2015-10-12T15:22:44Z" changeset="34592687" uid="37987" user="ikks">
+  <relation id="4765176" version="3" timestamp="2017-11-03T15:03:21Z" changeset="53481359" uid="2533093" user="carciofo">
     <member type="way" ref="282992701" role=""/>
     <member type="way" ref="282992703" role="forward"/>
     <member type="way" ref="282992708" role="backward"/>
@@ -2161,16 +2163,16 @@
     <member type="way" ref="257956881" role=""/>
     <member type="way" ref="213933900" role="forward"/>
     <member type="way" ref="213933897" role="backward"/>
+    <tag k="description" v="Tramo Pitalito-Garzón"/>
     <tag k="distance" v="71.87"/>
     <tag k="name" v="45-04"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Pitalito-Garzón"/>
     <tag k="operator" v="Invias"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4765177" version="12" timestamp="2017-06-28T18:18:13Z" changeset="49898660" uid="2533093" user="carciofo">
+  <relation id="4765177" version="13" timestamp="2017-11-03T16:04:28Z" changeset="53482840" uid="2533093" user="carciofo">
     <member type="relation" ref="4765173" role=""/>
     <member type="relation" ref="4765174" role=""/>
     <member type="relation" ref="4765175" role=""/>
@@ -2178,7 +2180,6 @@
     <member type="relation" ref="5380726" role=""/>
     <member type="relation" ref="5532625" role=""/>
     <member type="relation" ref="5532626" role=""/>
-    <member type="relation" ref="5963721" role=""/>
     <member type="relation" ref="6039634" role=""/>
     <member type="relation" ref="6039635" role=""/>
     <member type="relation" ref="6039636" role=""/>
@@ -2226,7 +2227,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4771045" version="4" timestamp="2017-06-12T16:59:00Z" changeset="49474593" uid="2533093" user="carciofo">
+  <relation id="4771045" version="5" timestamp="2017-11-03T15:29:17Z" changeset="53482009" uid="2533093" user="carciofo">
     <member type="way" ref="200857720" role="forward"/>
     <member type="way" ref="304980260" role="forward"/>
     <member type="way" ref="337390355" role="forward"/>
@@ -2260,6 +2261,7 @@
     <member type="way" ref="499940556" role="link"/>
     <member type="way" ref="323857753" role="link"/>
     <member type="way" ref="323857752" role="link"/>
+    <tag k="description" v="Tramo Cereté - Cruce Ruta 25 (La Ye)"/>
     <tag k="distance" v="35"/>
     <tag k="name" v="74-02"/>
     <tag k="network" v="co:national"/>
@@ -4788,29 +4790,27 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5221418" version="31" timestamp="2017-10-11T02:08:14Z" changeset="52810112" uid="927170" user="cris_1994">
+  <relation id="5221418" version="32" timestamp="2017-11-03T13:45:40Z" changeset="53479667" uid="2533093" user="carciofo">
     <member type="way" ref="444798152" role=""/>
     <member type="way" ref="444798154" role=""/>
     <member type="way" ref="400786211" role=""/>
     <member type="way" ref="516717868" role=""/>
     <member type="way" ref="516718403" role=""/>
     <member type="way" ref="516726525" role=""/>
-    <member type="way" ref="516720497" role=""/>
     <member type="way" ref="516720498" role=""/>
+    <member type="way" ref="516720497" role=""/>
     <member type="way" ref="499916582" role=""/>
     <member type="way" ref="499685408" role=""/>
     <member type="way" ref="499685394" role=""/>
     <member type="way" ref="499681587" role=""/>
     <member type="way" ref="499693461" role=""/>
-    <tag k="description" v="Tramo 01: Cali - Cruce Ruta 40 (Loboguerro)"/>
+    <tag k="description" v="Cali - Cruce Ruta 40 (Loboguerro)"/>
     <tag k="distance" v="51.42"/>
-    <tag k="name" v="Ruta Nacional 19"/>
+    <tag k="name" v="19-01"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="A la fecha, la Ruta Nacional 19 está compuesta solo por el trayecto 19-01. En caso de añadirse trayectos en un futuro, crear una super ruta que comprenda los tramos (véasen las demás rutas con network=co:national)"/>
     <tag k="operator" v="Invias"/>
     <tag k="ref" v="19"/>
     <tag k="route" v="road"/>
-    <tag k="symbol" v="https://upload.wikimedia.org/wikipedia/commons/4/44/Rutacol-19.svg"/>
     <tag k="type" v="route"/>
   </relation>
   <relation id="5221419" version="4" timestamp="2017-07-28T17:21:29Z" changeset="50654624" uid="2533093" user="carciofo">
@@ -6085,7 +6085,7 @@
     <tag k="symbol" v="https://upload.wikimedia.org/wikipedia/commons/8/82/Rutacol-29.svg"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5380726" version="2" timestamp="2016-07-02T13:04:52Z" changeset="40439917" uid="2533093" user="carciofo">
+  <relation id="5380726" version="3" timestamp="2017-11-03T15:03:22Z" changeset="53481359" uid="2533093" user="carciofo">
     <member type="way" ref="361434517" role="backward"/>
     <member type="way" ref="262096092" role="forward"/>
     <member type="way" ref="213899007" role="forward"/>
@@ -6114,10 +6114,10 @@
     <member type="way" ref="300399869" role=""/>
     <member type="way" ref="39365991" role="forward"/>
     <member type="way" ref="361437719" role="backward"/>
+    <tag k="description" v="Tramo Garzón-Neiva"/>
     <tag k="distance" v="109.01"/>
     <tag k="name" v="45-05"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Garzón-Neiva"/>
     <tag k="operator" v="Invias"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
@@ -6868,23 +6868,23 @@
     <tag k="type" v="route"/>
     <tag k="unsigned_ref" v="45 TL E"/>
   </relation>
-  <relation id="5532625" version="2" timestamp="2017-09-21T21:11:36Z" changeset="52257570" uid="1203657" user="Jan van Bekkum">
+  <relation id="5532625" version="3" timestamp="2017-11-03T15:03:22Z" changeset="53481359" uid="2533093" user="carciofo">
     <member type="way" ref="526587668" role=""/>
     <member type="way" ref="526587667" role=""/>
     <member type="way" ref="111664191" role=""/>
     <member type="way" ref="111664183" role=""/>
     <member type="way" ref="372222067" role=""/>
     <member type="way" ref="207324501" role=""/>
+    <tag k="description" v="Tramo Neiva-Castilla"/>
     <tag k="distance" v="104.3"/>
     <tag k="name" v="45-06"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Neiva-Castilla"/>
     <tag k="operator" v="Invias;Concesión ANI"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5532626" version="2" timestamp="2017-08-23T12:53:12Z" changeset="51374521" uid="2533093" user="carciofo">
+  <relation id="5532626" version="3" timestamp="2017-11-03T15:03:23Z" changeset="53481359" uid="2533093" user="carciofo">
     <member type="way" ref="207324501" role=""/>
     <member type="way" ref="517963655" role=""/>
     <member type="way" ref="517963650" role="forward"/>
@@ -6946,10 +6946,10 @@
     <member type="way" ref="261952473" role="forward"/>
     <member type="way" ref="314210154" role="backward"/>
     <member type="way" ref="236347525" role=""/>
+    <tag k="description" v="Tramo Castilla-Girardot"/>
     <tag k="distance" v="61.93"/>
     <tag k="name" v="45-07"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Castilla-Girardot"/>
     <tag k="operator" v="Invias;Concesión ANI"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
@@ -8263,65 +8263,9 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5806680" version="1" timestamp="2015-12-28T21:55:17Z" changeset="36230319" uid="2533093" user="carciofo">
-    <member type="way" ref="388323188" role=""/>
-    <tag k="name" v="49-03"/>
-    <tag k="network" v="co:national"/>
-    <tag k="operator" v="Concesión departamental"/>
-    <tag k="ref" v="49"/>
-    <tag k="route" v="road"/>
-    <tag k="type" v="route"/>
-  </relation>
-  <relation id="5806681" version="2" timestamp="2016-01-29T15:26:48Z" changeset="36881591" uid="3428751" user="Felipe andres">
-    <member type="way" ref="89433271" role=""/>
-    <member type="way" ref="394641177" role=""/>
-    <tag k="name" v="49-04"/>
-    <tag k="network" v="co:national"/>
-    <tag k="operator" v="Concesión departamental"/>
-    <tag k="ref" v="49"/>
-    <tag k="route" v="road"/>
-    <tag k="type" v="route"/>
-  </relation>
-  <relation id="5806682" version="1" timestamp="2015-12-28T21:55:17Z" changeset="36230319" uid="2533093" user="carciofo">
-    <member type="way" ref="52158140" role=""/>
-    <member type="way" ref="168072214" role=""/>
-    <member type="way" ref="99625857" role=""/>
-    <member type="way" ref="99750032" role=""/>
-    <member type="way" ref="99750029" role=""/>
-    <member type="way" ref="134101045" role=""/>
-    <member type="way" ref="388323182" role=""/>
-    <tag k="name" v="89-01"/>
-    <tag k="network" v="co:national"/>
-    <tag k="operator" v="Concesión ANI"/>
-    <tag k="ref" v="89"/>
-    <tag k="route" v="road"/>
-    <tag k="type" v="route"/>
-  </relation>
-  <relation id="5806683" version="1" timestamp="2015-12-28T21:55:17Z" changeset="36230319" uid="2533093" user="carciofo">
-    <member type="way" ref="134101030" role=""/>
-    <member type="way" ref="258244782" role=""/>
-    <member type="way" ref="258244785" role=""/>
-    <tag k="name" v="89-02"/>
-    <tag k="network" v="co:national"/>
-    <tag k="operator" v="Invias"/>
-    <tag k="ref" v="89"/>
-    <tag k="route" v="road"/>
-    <tag k="type" v="route"/>
-  </relation>
-  <relation id="5806684" version="1" timestamp="2015-12-28T21:55:18Z" changeset="36230319" uid="2533093" user="carciofo">
-    <member type="relation" ref="5806682" role=""/>
-    <member type="relation" ref="5806683" role=""/>
-    <tag k="name" v="Ruta Nacional 89 (super)"/>
-    <tag k="network" v="co:national"/>
-    <tag k="ref" v="89"/>
-    <tag k="route" v="road"/>
-    <tag k="type" v="route"/>
-  </relation>
-  <relation id="5806685" version="1" timestamp="2015-12-28T21:55:18Z" changeset="36230319" uid="2533093" user="carciofo">
+  <relation id="5806685" version="2" timestamp="2017-11-03T15:57:00Z" changeset="53482665" uid="2533093" user="carciofo">
     <member type="relation" ref="5806678" role=""/>
     <member type="relation" ref="5806679" role=""/>
-    <member type="relation" ref="5806680" role=""/>
-    <member type="relation" ref="5806681" role=""/>
     <tag k="name" v="Ruta Nacional 49 (super)"/>
     <tag k="network" v="co:national"/>
     <tag k="ref" v="49"/>
@@ -8330,7 +8274,7 @@
     <tag k="type" v="route"/>
     <tag k="wikipedia" v="es:Ruta Nacional 49 (Colombia)"/>
   </relation>
-  <relation id="5806693" version="2" timestamp="2016-01-13T16:48:40Z" changeset="36553835" uid="2533093" user="carciofo">
+  <relation id="5806693" version="3" timestamp="2017-11-03T15:44:06Z" changeset="53482350" uid="2533093" user="carciofo">
     <member type="way" ref="346918282" role=""/>
     <member type="way" ref="39153121" role=""/>
     <member type="way" ref="153865286" role=""/>
@@ -8346,6 +8290,7 @@
     <member type="way" ref="67026374" role=""/>
     <member type="way" ref="67026392" role=""/>
     <member type="way" ref="391235681" role=""/>
+    <tag k="description" v="Tramo Valledupar - San Juan del Cesar"/>
     <tag k="name" v="80-04A"/>
     <tag k="network" v="co:national"/>
     <tag k="operator" v="Concesión ANI"/>
@@ -8353,12 +8298,13 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5862121" version="1" timestamp="2016-01-14T16:05:57Z" changeset="36573581" uid="2533093" user="carciofo">
+  <relation id="5862121" version="2" timestamp="2017-11-03T15:46:44Z" changeset="53482403" uid="2533093" user="carciofo">
     <member type="way" ref="70366134" role=""/>
     <member type="way" ref="205402038" role=""/>
     <member type="way" ref="223941645" role=""/>
     <member type="way" ref="248087664" role=""/>
     <member type="way" ref="391399802" role=""/>
+    <tag k="description" v="Tramo La Bodega - Mompox"/>
     <tag k="name" v="78-03"/>
     <tag k="network" v="co:national"/>
     <tag k="ref" v="78"/>
@@ -8366,7 +8312,7 @@
     <tag k="todo" v="Add description &amp; distance"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5862122" version="1" timestamp="2016-01-14T16:05:57Z" changeset="36573581" uid="2533093" user="carciofo">
+  <relation id="5862122" version="2" timestamp="2017-11-03T15:46:45Z" changeset="53482403" uid="2533093" user="carciofo">
     <member type="way" ref="248095840" role="forward"/>
     <member type="way" ref="261177745" role="forward"/>
     <member type="way" ref="89781791" role=""/>
@@ -8379,14 +8325,14 @@
     <member type="way" ref="222844046" role=""/>
     <member type="way" ref="176084004" role=""/>
     <member type="way" ref="391241276" role=""/>
+    <tag k="description" v="Tramo Mompox - Guamal"/>
     <tag k="name" v="78-04"/>
     <tag k="network" v="co:national"/>
     <tag k="ref" v="78"/>
     <tag k="route" v="road"/>
-    <tag k="todo" v="Add description &amp; distance"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5862123" version="1" timestamp="2016-01-14T16:05:58Z" changeset="36573581" uid="2533093" user="carciofo">
+  <relation id="5862123" version="2" timestamp="2017-11-03T15:46:45Z" changeset="53482403" uid="2533093" user="carciofo">
     <member type="way" ref="391241274" role=""/>
     <member type="way" ref="391241273" role=""/>
     <member type="way" ref="391241272" role=""/>
@@ -8398,14 +8344,14 @@
     <member type="way" ref="87229304" role=""/>
     <member type="way" ref="176084014" role=""/>
     <member type="way" ref="176084011" role=""/>
+    <tag k="description" v="Tramo Guamal - El Banco"/>
     <tag k="name" v="78-05"/>
     <tag k="network" v="co:national"/>
     <tag k="ref" v="78"/>
     <tag k="route" v="road"/>
-    <tag k="todo" v="Add description &amp; distance"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5862124" version="2" timestamp="2016-05-10T15:51:33Z" changeset="39221380" uid="3428751" user="Felipe andres">
+  <relation id="5862124" version="3" timestamp="2017-11-03T15:46:45Z" changeset="53482403" uid="2533093" user="carciofo">
     <member type="way" ref="237612066" role=""/>
     <member type="way" ref="417033842" role=""/>
     <member type="way" ref="237612245" role=""/>
@@ -8414,50 +8360,10 @@
     <member type="way" ref="220573893" role=""/>
     <member type="way" ref="220573892" role=""/>
     <member type="way" ref="28169902" role=""/>
+    <tag k="description" v="Tramo El Banco - El Burro"/>
     <tag k="name" v="78-06"/>
     <tag k="network" v="co:national"/>
     <tag k="ref" v="78"/>
-    <tag k="route" v="road"/>
-    <tag k="todo" v="Add description &amp; distance"/>
-    <tag k="type" v="route"/>
-  </relation>
-  <relation id="5963721" version="3" timestamp="2017-07-02T06:41:14Z" changeset="49977686" uid="1401762" user="juanda097">
-    <member type="way" ref="276173907" role=""/>
-    <member type="way" ref="302997968" role=""/>
-    <member type="way" ref="302997967" role=""/>
-    <member type="way" ref="296891724" role=""/>
-    <member type="way" ref="296891704" role=""/>
-    <member type="way" ref="279650562" role=""/>
-    <member type="way" ref="279650564" role=""/>
-    <member type="way" ref="296953636" role=""/>
-    <member type="way" ref="296953640" role=""/>
-    <member type="way" ref="296953635" role=""/>
-    <member type="way" ref="296953638" role=""/>
-    <member type="way" ref="296953637" role=""/>
-    <member type="way" ref="296953639" role=""/>
-    <member type="way" ref="241934913" role=""/>
-    <member type="way" ref="241934903" role=""/>
-    <member type="way" ref="236154616" role=""/>
-    <member type="way" ref="236154612" role=""/>
-    <member type="way" ref="236156291" role=""/>
-    <member type="way" ref="236156296" role=""/>
-    <member type="way" ref="396969894" role=""/>
-    <member type="way" ref="48554291" role=""/>
-    <member type="way" ref="236716246" role=""/>
-    <member type="way" ref="30987398" role=""/>
-    <member type="way" ref="257338180" role=""/>
-    <member type="way" ref="257338183" role=""/>
-    <member type="way" ref="257338181" role=""/>
-    <member type="way" ref="257338179" role=""/>
-    <member type="way" ref="257338182" role=""/>
-    <member type="way" ref="257338184" role=""/>
-    <member type="way" ref="401835772" role=""/>
-    <member type="way" ref="401835775" role=""/>
-    <member type="way" ref="243986905" role=""/>
-    <member type="way" ref="243986910" role=""/>
-    <tag k="name" v="45-09"/>
-    <tag k="network" v="co:national"/>
-    <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
@@ -8543,7 +8449,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6039635" version="4" timestamp="2016-09-07T22:38:42Z" changeset="41991080" uid="226189" user="carfog81">
+  <relation id="6039635" version="5" timestamp="2017-11-03T15:04:29Z" changeset="53481388" uid="2533093" user="carciofo">
     <member type="way" ref="376789179" role=""/>
     <member type="way" ref="376789205" role=""/>
     <member type="way" ref="376789188" role=""/>
@@ -8579,16 +8485,16 @@
     <member type="way" ref="342239064" role=""/>
     <member type="way" ref="342239007" role="forward"/>
     <member type="way" ref="125111065" role="backward"/>
+    <tag k="description" v="Tramo Río Ermitaño - La Lizama"/>
     <tag k="distance" v="149.07"/>
     <tag k="name" v="45-11"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Río Ermitaño - La Lizama"/>
     <tag k="operator" v="Concesión ANI"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6039636" version="2" timestamp="2016-07-02T13:04:54Z" changeset="40439917" uid="2533093" user="carciofo">
+  <relation id="6039636" version="3" timestamp="2017-11-03T15:04:30Z" changeset="53481388" uid="2533093" user="carciofo">
     <member type="way" ref="402873268" role="forward"/>
     <member type="way" ref="402873270" role="backward"/>
     <member type="way" ref="28168844" role=""/>
@@ -8614,10 +8520,10 @@
     <member type="way" ref="372100665" role=""/>
     <member type="way" ref="144941338" role="forward"/>
     <member type="way" ref="144941311" role="forward"/>
+    <tag k="description" v="Tramo La Lizama - San Alberto"/>
     <tag k="distance" v="90.59"/>
     <tag k="name" v="45-13"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo La Lizama - San Alberto"/>
     <tag k="operator" v="Concesión ANI"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
@@ -8726,7 +8632,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6040024" version="1" timestamp="2016-03-10T13:35:40Z" changeset="37734029" uid="2533093" user="carciofo">
+  <relation id="6040024" version="2" timestamp="2017-11-03T13:31:16Z" changeset="53479326" uid="2533093" user="carciofo">
     <member type="way" ref="402898173" role=""/>
     <member type="way" ref="91959278" role=""/>
     <tag k="description" v="Te Aeropuerto"/>
@@ -8736,7 +8642,7 @@
     <tag k="operator" v="Invias"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
-    <tag k="unsigned_ref" v="45 HL 01"/>
+    <tag k="unsigned_ref" v="66 ST 02"/>
   </relation>
   <relation id="6040157" version="4" timestamp="2017-03-13T22:55:58Z" changeset="46826068" uid="4324449" user="hugofernando2005">
     <member type="way" ref="69030073" role=""/>
@@ -8820,8 +8726,9 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6040159" version="7" timestamp="2017-10-21T14:12:11Z" changeset="53129175" uid="2533093" user="carciofo">
+  <relation id="6040159" version="8" timestamp="2017-11-03T14:47:51Z" changeset="53481040" uid="2533093" user="carciofo">
     <member type="relation" ref="6379004" role=""/>
+    <member type="relation" ref="7705838" role=""/>
     <member type="relation" ref="6056393" role=""/>
     <member type="relation" ref="6056394" role=""/>
     <member type="relation" ref="6040157" role=""/>
@@ -8841,7 +8748,7 @@
     <tag k="symbol" v="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rutacol-55.svg"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6041837" version="3" timestamp="2017-06-03T05:31:49Z" changeset="49212603" uid="91958" user="Joël Koeckhoven">
+  <relation id="6041837" version="4" timestamp="2017-11-03T15:04:30Z" changeset="53481388" uid="2533093" user="carciofo">
     <member type="way" ref="352315832" role=""/>
     <member type="way" ref="497809344" role=""/>
     <member type="way" ref="322167937" role="forward"/>
@@ -8908,10 +8815,10 @@
     <member type="way" ref="341959710" role="link"/>
     <member type="way" ref="388482649" role="link"/>
     <member type="way" ref="388482650" role="link"/>
+    <tag k="description" v="Tramo San Alberto - La Mata"/>
     <tag k="distance" v="99.67"/>
     <tag k="name" v="45-14"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo San Alberto - La Mata"/>
     <tag k="operator" v="Concesión ANI"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
@@ -9365,7 +9272,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6285710" version="3" timestamp="2016-06-04T11:25:06Z" changeset="39795938" uid="2533093" user="carciofo">
+  <relation id="6285710" version="4" timestamp="2017-11-03T15:27:22Z" changeset="53481969" uid="2533093" user="carciofo">
     <member type="way" ref="422795024" role="forward"/>
     <member type="way" ref="275860430" role="forward"/>
     <member type="way" ref="119540973" role="forward"/>
@@ -9376,6 +9283,7 @@
     <member type="way" ref="401854162" role="forward"/>
     <member type="way" ref="401854163" role="forward"/>
     <member type="way" ref="295444140" role=""/>
+    <tag k="description" v="Variante Portachuelo"/>
     <tag k="distance" v="3.26"/>
     <tag k="name" v="45A CN B"/>
     <tag k="network" v="co:national"/>
@@ -9509,7 +9417,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6286510" version="2" timestamp="2016-06-04T20:26:02Z" changeset="39804699" uid="2533093" user="carciofo">
+  <relation id="6286510" version="3" timestamp="2017-11-03T15:26:42Z" changeset="53481955" uid="2533093" user="carciofo">
     <member type="way" ref="48159578" role="forward"/>
     <member type="way" ref="390621128" role="forward"/>
     <member type="way" ref="422824213" role=""/>
@@ -9517,6 +9425,7 @@
     <member type="way" ref="422824214" role=""/>
     <member type="way" ref="422824215" role=""/>
     <member type="way" ref="325209964" role=""/>
+    <tag k="description" v="Variante de Chiquinquirá"/>
     <tag k="distance" v="6.41"/>
     <tag k="name" v="45A BY B"/>
     <tag k="network" v="co:national"/>
@@ -9846,7 +9755,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6376754" version="4" timestamp="2016-08-08T18:03:22Z" changeset="41329663" uid="2533093" user="carciofo">
+  <relation id="6376754" version="5" timestamp="2017-11-03T15:04:31Z" changeset="53481388" uid="2533093" user="carciofo">
     <member type="way" ref="341967086" role=""/>
     <member type="way" ref="342105278" role="forward"/>
     <member type="way" ref="102775163" role="forward"/>
@@ -9887,16 +9796,16 @@
     <member type="way" ref="372108939" role=""/>
     <member type="way" ref="372108940" role=""/>
     <member type="way" ref="428732066" role=""/>
+    <tag k="description" v="Tramo La Mata - San Roque"/>
     <tag k="distance" v="87.71"/>
     <tag k="name" v="45-15"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo La Mata - San Roque"/>
     <tag k="operator" v="Concesión ANI"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6376755" version="8" timestamp="2016-09-05T22:08:47Z" changeset="41941343" uid="600134" user="cjvilladl">
+  <relation id="6376755" version="9" timestamp="2017-11-03T15:04:31Z" changeset="53481388" uid="2533093" user="carciofo">
     <member type="way" ref="372108936" role=""/>
     <member type="way" ref="372108937" role=""/>
     <member type="way" ref="220558625" role=""/>
@@ -9951,16 +9860,16 @@
     <member type="way" ref="396250575" role=""/>
     <member type="way" ref="396250577" role=""/>
     <member type="way" ref="28171965" role=""/>
+    <tag k="description" v="Tramo San Roque - Bosconia"/>
     <tag k="distance" v="88.65"/>
     <tag k="name" v="45-16"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo San Roque - Bosconia"/>
     <tag k="operator" v="Concesión ANI"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6376756" version="1" timestamp="2016-07-02T13:04:40Z" changeset="40439917" uid="2533093" user="carciofo">
+  <relation id="6376756" version="2" timestamp="2017-11-03T15:04:32Z" changeset="53481388" uid="2533093" user="carciofo">
     <member type="way" ref="87023777" role=""/>
     <member type="way" ref="396288269" role=""/>
     <member type="way" ref="396288268" role=""/>
@@ -9972,16 +9881,16 @@
     <member type="way" ref="219933878" role=""/>
     <member type="way" ref="373440331" role=""/>
     <member type="way" ref="98477700" role=""/>
+    <tag k="description" v="Tramo Bosconia - Río Ariguaní"/>
     <tag k="distance" v="33.97"/>
     <tag k="name" v="45-17"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Bosconia - Río Ariguaní"/>
     <tag k="operator" v="Concesión ANI"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6376757" version="2" timestamp="2017-06-28T18:18:14Z" changeset="49898660" uid="2533093" user="carciofo">
+  <relation id="6376757" version="3" timestamp="2017-11-03T15:04:32Z" changeset="53481388" uid="2533093" user="carciofo">
     <member type="way" ref="98477707" role=""/>
     <member type="way" ref="98477711" role=""/>
     <member type="way" ref="98477735" role=""/>
@@ -10036,10 +9945,10 @@
     <member type="way" ref="98454021" role=""/>
     <member type="way" ref="317550633" role=""/>
     <member type="way" ref="317550632" role=""/>
+    <tag k="description" v="Tramo Río Ariguaní - Yé de Ciénaga"/>
     <tag k="distance" v="100.93"/>
     <tag k="name" v="45-18"/>
     <tag k="network" v="co:national"/>
-    <tag k="note" v="Tramo Río Ariguaní - Yé de Ciénaga"/>
     <tag k="operator" v="Invias;Concesión ANI"/>
     <tag k="ref" v="45"/>
     <tag k="route" v="road"/>
@@ -10363,7 +10272,8 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6393056" version="9" timestamp="2017-10-05T17:49:20Z" changeset="52661933" uid="2533093" user="carciofo">
+  <relation id="6393056" version="10" timestamp="2017-11-03T14:29:23Z" changeset="53480591" uid="2533093" user="carciofo">
+    <member type="way" ref="24020491" role=""/>
     <member type="way" ref="372763066" role=""/>
     <member type="way" ref="405533266" role="forward"/>
     <member type="way" ref="334378601" role="forward"/>
@@ -10664,12 +10574,13 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="7353283" version="1" timestamp="2017-06-24T10:25:41Z" changeset="49790646" uid="2533093" user="carciofo">
+  <relation id="7353283" version="2" timestamp="2017-11-03T15:01:34Z" changeset="53481320" uid="2533093" user="carciofo">
     <member type="way" ref="163848243" role=""/>
     <member type="way" ref="346369277" role=""/>
     <member type="way" ref="340322339" role=""/>
     <member type="way" ref="349570741" role=""/>
     <member type="way" ref="349571597" role=""/>
+    <tag k="description" v="Variante Oriental de Montería"/>
     <tag k="name" v="21 CR A"/>
     <tag k="network" v="co:national"/>
     <tag k="operator" v="ANI"/>
@@ -11414,6 +11325,154 @@
     <tag k="network" v="co:national"/>
     <tag k="operator" v="Concesión ANI"/>
     <tag k="ref" v="55 CN C"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7705652" version="1" timestamp="2017-11-03T13:45:40Z" changeset="53479667" uid="2533093" user="carciofo">
+    <member type="relation" ref="5221418" role=""/>
+    <tag k="name" v="Ruta Nacional 19 (super)"/>
+    <tag k="network" v="co:national"/>
+    <tag k="ref" v="19"/>
+    <tag k="route" v="road"/>
+    <tag k="symbol" v="https://upload.wikimedia.org/wikipedia/commons/4/44/Rutacol-19.svg"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7705775" version="1" timestamp="2017-11-03T14:29:16Z" changeset="53480591" uid="2533093" user="carciofo">
+    <member type="way" ref="46973628" role=""/>
+    <member type="way" ref="46973633" role=""/>
+    <member type="way" ref="25756356" role=""/>
+    <member type="way" ref="48475560" role=""/>
+    <member type="way" ref="48475561" role=""/>
+    <member type="way" ref="149413605" role=""/>
+    <member type="way" ref="25763447" role=""/>
+    <member type="way" ref="48475846" role=""/>
+    <member type="way" ref="102572934" role=""/>
+    <member type="way" ref="102572936" role=""/>
+    <member type="way" ref="156093643" role=""/>
+    <member type="way" ref="156093750" role=""/>
+    <member type="way" ref="495119571" role=""/>
+    <member type="way" ref="495119572" role=""/>
+    <member type="way" ref="159915692" role=""/>
+    <member type="way" ref="495123733" role=""/>
+    <member type="way" ref="495428538" role=""/>
+    <member type="way" ref="156208707" role=""/>
+    <member type="way" ref="537982594" role=""/>
+    <member type="way" ref="450491473" role=""/>
+    <member type="way" ref="495434155" role=""/>
+    <member type="way" ref="450493726" role=""/>
+    <tag k="description" v="Tramo Puente La Libertad - Fresno"/>
+    <tag k="name" v="50-06"/>
+    <tag k="network" v="co:national"/>
+    <tag k="ref" v="50"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7705776" version="1" timestamp="2017-11-03T14:29:17Z" changeset="53480591" uid="2533093" user="carciofo">
+    <member type="way" ref="450493728" role=""/>
+    <member type="way" ref="156208708" role=""/>
+    <member type="way" ref="495658965" role=""/>
+    <member type="way" ref="495663519" role=""/>
+    <member type="way" ref="495664197" role=""/>
+    <member type="way" ref="401657612" role=""/>
+    <member type="way" ref="495664196" role=""/>
+    <member type="way" ref="405537856" role=""/>
+    <member type="way" ref="169273406" role=""/>
+    <member type="way" ref="169273407" role=""/>
+    <member type="way" ref="169273409" role=""/>
+    <member type="way" ref="242415946" role=""/>
+    <member type="way" ref="242415945" role=""/>
+    <member type="way" ref="169273398" role=""/>
+    <member type="way" ref="169273401" role=""/>
+    <member type="way" ref="402873273" role=""/>
+    <member type="way" ref="24302756" role="forward"/>
+    <member type="way" ref="402873264" role="forward"/>
+    <member type="way" ref="24302738" role="forward"/>
+    <member type="way" ref="24302758" role=""/>
+    <member type="way" ref="24302754" role="forward"/>
+    <member type="way" ref="169273408" role="forward"/>
+    <member type="way" ref="24302741" role=""/>
+    <member type="way" ref="169273394" role="link"/>
+    <member type="way" ref="169273393" role="link"/>
+    <tag k="description" v="Tramo Fresno - Mariquita - Honda"/>
+    <tag k="name" v="50-07"/>
+    <tag k="network" v="co:national"/>
+    <tag k="ref" v="50"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7705838" version="1" timestamp="2017-11-03T14:47:49Z" changeset="53481040" uid="2533093" user="carciofo">
+    <member type="way" ref="54374431" role="forward"/>
+    <member type="way" ref="82157696" role="forward"/>
+    <member type="way" ref="82157680" role="forward"/>
+    <member type="way" ref="82157728" role="forward"/>
+    <member type="way" ref="82157687" role="forward"/>
+    <member type="way" ref="28993452" role="forward"/>
+    <member type="way" ref="82153184" role="forward"/>
+    <member type="way" ref="404047773" role="forward"/>
+    <member type="way" ref="404047774" role="forward"/>
+    <member type="way" ref="82157655" role="forward"/>
+    <member type="way" ref="404047775" role=""/>
+    <member type="way" ref="268630506" role="forward"/>
+    <member type="way" ref="340132534" role="forward"/>
+    <member type="way" ref="340132532" role=""/>
+    <member type="way" ref="76783644" role="forward"/>
+    <member type="way" ref="436232643" role="forward"/>
+    <member type="way" ref="55932055" role="forward"/>
+    <member type="way" ref="441828265" role="forward"/>
+    <member type="way" ref="483214283" role="forward"/>
+    <member type="way" ref="42725873" role="forward"/>
+    <member type="way" ref="442971046" role="forward"/>
+    <member type="way" ref="441828264" role="forward"/>
+    <member type="way" ref="441828263" role="forward"/>
+    <member type="way" ref="442971045" role="forward"/>
+    <member type="way" ref="254754599" role="forward"/>
+    <member type="way" ref="483214284" role="forward"/>
+    <member type="way" ref="441828269" role="forward"/>
+    <member type="way" ref="441828266" role="forward"/>
+    <member type="way" ref="440526952" role="forward"/>
+    <member type="way" ref="440526953" role="forward"/>
+    <member type="way" ref="54516620" role="forward"/>
+    <member type="way" ref="436232638" role="forward"/>
+    <member type="way" ref="55932043" role="forward"/>
+    <member type="way" ref="82157656" role="link"/>
+    <member type="way" ref="325231943" role="link"/>
+    <member type="way" ref="325231945" role="link"/>
+    <member type="way" ref="82157667" role="link"/>
+    <member type="way" ref="325231944" role="link"/>
+    <member type="way" ref="82157654" role="link"/>
+    <member type="way" ref="325231947" role="link"/>
+    <member type="way" ref="325231946" role="link"/>
+    <member type="way" ref="82157708" role="link"/>
+    <member type="way" ref="82157682" role="link"/>
+    <member type="way" ref="82157676" role="link"/>
+    <member type="way" ref="82157699" role="link"/>
+    <member type="way" ref="82157698" role="link"/>
+    <member type="way" ref="82157729" role="link"/>
+    <member type="way" ref="82157683" role="link"/>
+    <member type="way" ref="82157672" role="link"/>
+    <member type="way" ref="82157714" role="link"/>
+    <member type="way" ref="82157722" role="link"/>
+    <member type="way" ref="82157652" role="link"/>
+    <member type="way" ref="520306062" role="link"/>
+    <member type="way" ref="82157670" role="link"/>
+    <member type="way" ref="82157662" role="link"/>
+    <member type="way" ref="82157707" role="link"/>
+    <member type="way" ref="82157692" role="link"/>
+    <member type="way" ref="82157668" role="link"/>
+    <member type="way" ref="82157705" role="link"/>
+    <member type="way" ref="82157660" role="link"/>
+    <member type="way" ref="82157650" role="link"/>
+    <member type="way" ref="82157731" role="link"/>
+    <member type="way" ref="53688658" role="link"/>
+    <member type="way" ref="43086519" role="link"/>
+    <member type="way" ref="32571438" role="link"/>
+    <member type="way" ref="32571436" role="link"/>
+    <member type="way" ref="82153148" role="link"/>
+    <member type="way" ref="42745571" role="link"/>
+    <tag k="description" v="Tramo Tunja - Duitama"/>
+    <tag k="name" v="55-02"/>
+    <tag k="network" v="co:national"/>
+    <tag k="ref" v="55"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
