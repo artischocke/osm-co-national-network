@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2017-11-03T16:07:02Z"/>
+<meta osm_base="2017-11-03T16:56:02Z"/>
 
   <relation id="1084111" version="10" timestamp="2017-03-31T12:40:01Z" changeset="47324247" uid="2678395" user="arturogutipi">
     <member type="way" ref="76589647" role=""/>
@@ -11475,6 +11475,99 @@
     <tag k="ref" v="55"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
+  </relation>
+  <relation id="7706187" version="1" timestamp="2017-11-03T16:50:18Z" changeset="53483931" uid="2533093" user="carciofo">
+    <member type="way" ref="25897199" role=""/>
+    <member type="way" ref="25897222" role=""/>
+    <member type="way" ref="25897220" role=""/>
+    <member type="way" ref="25897173" role=""/>
+    <member type="way" ref="8038327" role=""/>
+    <member type="way" ref="95838023" role=""/>
+    <member type="way" ref="95838025" role=""/>
+    <member type="way" ref="95838026" role=""/>
+    <member type="way" ref="95838024" role=""/>
+    <member type="way" ref="166859709" role=""/>
+    <member type="way" ref="166859710" role=""/>
+    <member type="way" ref="25897114" role=""/>
+    <member type="way" ref="509659385" role="forward"/>
+    <member type="way" ref="509659393" role="forward"/>
+    <member type="way" ref="509659392" role="forward"/>
+    <member type="way" ref="509659380" role="forward"/>
+    <member type="way" ref="509659381" role="forward"/>
+    <member type="way" ref="246901853" role="forward"/>
+    <member type="way" ref="509659386" role="forward"/>
+    <member type="way" ref="509659384" role="forward"/>
+    <member type="way" ref="509659394" role="forward"/>
+    <member type="way" ref="509659395" role="forward"/>
+    <member type="way" ref="509659391" role="forward"/>
+    <member type="way" ref="509659382" role="forward"/>
+    <member type="way" ref="509659383" role="forward"/>
+    <member type="way" ref="509659387" role="forward"/>
+    <member type="way" ref="509659390" role="forward"/>
+    <member type="way" ref="456484148" role="forward"/>
+    <member type="way" ref="246901854" role=""/>
+    <member type="way" ref="100437153" role=""/>
+    <member type="way" ref="100437148" role=""/>
+    <member type="way" ref="156952183" role=""/>
+    <member type="way" ref="156952186" role=""/>
+    <member type="way" ref="235331842" role=""/>
+    <member type="way" ref="235331843" role=""/>
+    <member type="way" ref="87325110" role=""/>
+    <member type="way" ref="87325120" role=""/>
+    <member type="way" ref="100430095" role=""/>
+    <member type="way" ref="100430071" role=""/>
+    <member type="way" ref="100430079" role=""/>
+    <member type="way" ref="100430083" role=""/>
+    <member type="way" ref="462563567" role="forward"/>
+    <member type="way" ref="100410370" role="forward"/>
+    <member type="way" ref="247967722" role="forward"/>
+    <member type="way" ref="100410073" role="forward"/>
+    <member type="way" ref="100410078" role="forward"/>
+    <member type="way" ref="115506531" role="forward"/>
+    <member type="way" ref="48960516" role="forward"/>
+    <member type="way" ref="376620021" role="forward"/>
+    <member type="way" ref="214459796" role="forward"/>
+    <member type="way" ref="538044418" role="forward"/>
+    <member type="way" ref="247967723" role="forward"/>
+    <member type="way" ref="100410066" role="forward"/>
+    <member type="way" ref="100410075" role="forward"/>
+    <member type="way" ref="100410068" role="forward"/>
+    <member type="way" ref="100410067" role="forward"/>
+    <member type="way" ref="214459802" role="forward"/>
+    <member type="way" ref="48960517" role="forward"/>
+    <member type="way" ref="376620022" role="forward"/>
+    <member type="way" ref="34377032" role="link"/>
+    <member type="way" ref="34376571" role="link"/>
+    <member type="way" ref="241887580" role="link"/>
+    <member type="way" ref="106407763" role="link"/>
+    <member type="way" ref="34241337" role="link"/>
+    <member type="way" ref="34241326" role="link"/>
+    <member type="way" ref="214459790" role="link"/>
+    <member type="way" ref="106408059" role="link"/>
+    <member type="way" ref="414088841" role="link"/>
+    <member type="way" ref="414088834" role="link"/>
+    <member type="way" ref="246901849" role="link"/>
+    <member type="way" ref="246901850" role="link"/>
+    <member type="way" ref="246901852" role="link"/>
+    <member type="way" ref="246901851" role="link"/>
+    <member type="way" ref="447722484" role="link"/>
+    <tag k="description" v="Tramo Cartagena - Lomita Arena - Barranquilla"/>
+    <tag k="name" v="90A-01"/>
+    <tag k="network" v="co:national"/>
+    <tag k="operator" v="Concesión ANI;Invias"/>
+    <tag k="ref" v="90A"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7706188" version="1" timestamp="2017-11-03T16:50:19Z" changeset="53483931" uid="2533093" user="carciofo">
+    <member type="relation" ref="7706187" role=""/>
+    <tag k="name" v="Ruta Nacional 90A (super)"/>
+    <tag k="network" v="co:national"/>
+    <tag k="ref" v="90A"/>
+    <tag k="route" v="road"/>
+    <tag k="symbol" v="https://upload.wikimedia.org/wikipedia/commons/0/07/Rutacol-90A.svg"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="es:Ruta Nacional 90 (Colombia)"/>
   </relation>
 
 </osm>

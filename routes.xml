@@ -2021,7 +2021,14 @@
       <timestamp>2015-05-26T12:56:12Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4751005" name="Ruta Nacional 01" description="Circunvalación Isla de San Andrés" ref="01" unsigned_ref="" osm_element_version="3" position="289">
+  <route osm_relation_id="7706187" name="90A-01" description="Tramo Cartagena - Lomita Arena - Barranquilla" ref="90A" unsigned_ref="" osm_element_version="1" position="289">
+    <last_changeset>
+      <id>53483931</id>
+      <user>carciofo</user>
+      <timestamp>2017-11-03T16:50:18Z</timestamp>
+    </last_changeset>
+  </route>
+  <route osm_relation_id="4751005" name="Ruta Nacional 01" description="Circunvalación Isla de San Andrés" ref="01" unsigned_ref="" osm_element_version="3" position="290">
     <last_changeset>
       <id>53128014</id>
       <user>carciofo</user>
@@ -2029,7 +2036,7 @@
     </last_changeset>
     <note>A la fecha, la ruta solo comprende el trayecto 01. Por lo tanto se consolida en una sola relación sin super ruta. En caso de añadirse tramos adicionales separar en super relacion y relaciones individuales por trayecto</note>
   </route>
-  <route osm_relation_id="4751006" name="Ruta Nacional 03" description="Circunvalación Isla de Providencia" ref="03" unsigned_ref="" osm_element_version="3" position="290">
+  <route osm_relation_id="4751006" name="Ruta Nacional 03" description="Circunvalación Isla de Providencia" ref="03" unsigned_ref="" osm_element_version="3" position="291">
     <last_changeset>
       <id>53128014</id>
       <user>carciofo</user>
@@ -2037,7 +2044,7 @@
     </last_changeset>
     <note>A la fecha, la ruta solo comprende el trayecto 01. Por lo tanto se consolida en una sola relación sin super ruta. En caso de añadirse tramos adicionales separar en super relacion y relaciones individuales por trayecto</note>
   </route>
-  <route osm_relation_id="4752048" name="Ruta Nacional 05" description="Tramo 01: La Espriella - Río Mataje" ref="05" unsigned_ref="" osm_element_version="4" position="291">
+  <route osm_relation_id="4752048" name="Ruta Nacional 05" description="Tramo 01: La Espriella - Río Mataje" ref="05" unsigned_ref="" osm_element_version="4" position="292">
     <last_changeset>
       <id>53128014</id>
       <user>carciofo</user>
@@ -2045,7 +2052,7 @@
     </last_changeset>
     <note>A la fecha, la ruta solo comprende el trayecto 01. Por lo tanto se consolida en una sola relación sin super ruta. En caso de añadirse tramos adicionales separar en super relacion y relaciones individuales por trayecto</note>
   </route>
-  <route osm_relation_id="4752105" name="Ruta Nacional 08" description="Tramo 01: Guachucal-Ipiales" ref="08" unsigned_ref="" osm_element_version="8" position="292">
+  <route osm_relation_id="4752105" name="Ruta Nacional 08" description="Tramo 01: Guachucal-Ipiales" ref="08" unsigned_ref="" osm_element_version="8" position="293">
     <last_changeset>
       <id>53128014</id>
       <user>carciofo</user>
@@ -2053,270 +2060,277 @@
     </last_changeset>
     <note>A la fecha, la ruta solo comprende el trayecto 01. Por lo tanto se consolida en una sola relación sin super ruta. En caso de añadirse tramos adicionales separar en super relacion y relaciones individuales por trayecto</note>
   </route>
-  <route osm_relation_id="4752049" name="Ruta Nacional 10 (super)" description="" ref="10" unsigned_ref="" osm_element_version="4" position="293">
+  <route osm_relation_id="4752049" name="Ruta Nacional 10 (super)" description="" ref="10" unsigned_ref="" osm_element_version="4" position="294">
     <last_changeset>
       <id>30058028</id>
       <user>carciofo</user>
       <timestamp>2015-04-08T08:28:18Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5149847" name="Ruta Nacional 12 (super)" description="" ref="12" unsigned_ref="" osm_element_version="1" position="294">
+  <route osm_relation_id="5149847" name="Ruta Nacional 12 (super)" description="" ref="12" unsigned_ref="" osm_element_version="1" position="295">
     <last_changeset>
       <id>31234838</id>
       <user>carciofo</user>
       <timestamp>2015-05-17T17:57:46Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5218823" name="Ruta Nacional 13 (super)" description="" ref="13" unsigned_ref="" osm_element_version="1" position="295">
+  <route osm_relation_id="5218823" name="Ruta Nacional 13 (super)" description="" ref="13" unsigned_ref="" osm_element_version="1" position="296">
     <last_changeset>
       <id>31582544</id>
       <user>carciofo</user>
       <timestamp>2015-05-30T11:40:35Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4755242" name="Ruta Nacional 17 (super)" description="" ref="17" unsigned_ref="" osm_element_version="2" position="296">
+  <route osm_relation_id="4755242" name="Ruta Nacional 17 (super)" description="" ref="17" unsigned_ref="" osm_element_version="2" position="297">
     <last_changeset>
       <id>31294120</id>
       <user>carciofo</user>
       <timestamp>2015-05-19T19:29:28Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="7705652" name="Ruta Nacional 19 (super)" description="" ref="19" unsigned_ref="" osm_element_version="1" position="297">
+  <route osm_relation_id="7705652" name="Ruta Nacional 19 (super)" description="" ref="19" unsigned_ref="" osm_element_version="1" position="298">
     <last_changeset>
       <id>53479667</id>
       <user>carciofo</user>
       <timestamp>2017-11-03T13:45:40Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5221419" name="Ruta Nacional 20 (super)" description="" ref="20" unsigned_ref="" osm_element_version="4" position="298">
+  <route osm_relation_id="5221419" name="Ruta Nacional 20 (super)" description="" ref="20" unsigned_ref="" osm_element_version="4" position="299">
     <last_changeset>
       <id>50654624</id>
       <user>carciofo</user>
       <timestamp>2017-07-28T17:21:29Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5186717" name="Ruta Nacional 21 (super)" description="" ref="21" unsigned_ref="" osm_element_version="2" position="299">
+  <route osm_relation_id="5186717" name="Ruta Nacional 21 (super)" description="" ref="21" unsigned_ref="" osm_element_version="2" position="300">
     <last_changeset>
       <id>49790646</id>
       <user>carciofo</user>
       <timestamp>2017-06-24T10:25:47Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4749426" name="Ruta Nacional 23 (super)" description="" ref="23" unsigned_ref="" osm_element_version="7" position="300">
+  <route osm_relation_id="4749426" name="Ruta Nacional 23 (super)" description="" ref="23" unsigned_ref="" osm_element_version="7" position="301">
     <last_changeset>
       <id>52770240</id>
       <user>cris_1994</user>
       <timestamp>2017-10-09T19:39:10Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5231887" name="Ruta Nacional 24 (super)" description="" ref="24" unsigned_ref="" osm_element_version="1" position="301">
+  <route osm_relation_id="5231887" name="Ruta Nacional 24 (super)" description="" ref="24" unsigned_ref="" osm_element_version="1" position="302">
     <last_changeset>
       <id>31656930</id>
       <user>carciofo</user>
       <timestamp>2015-06-02T08:14:16Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4742984" name="Ruta Nacional 25 (super)" description="" ref="25" unsigned_ref="" osm_element_version="28" position="302">
+  <route osm_relation_id="4742984" name="Ruta Nacional 25 (super)" description="" ref="25" unsigned_ref="" osm_element_version="28" position="303">
     <last_changeset>
       <id>53126972</id>
       <user>carciofo</user>
       <timestamp>2017-10-21T12:30:20Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5548682" name="Ruta Nacional 25B (super)" description="" ref="25B" unsigned_ref="" osm_element_version="1" position="303">
+  <route osm_relation_id="5548682" name="Ruta Nacional 25B (super)" description="" ref="25B" unsigned_ref="" osm_element_version="1" position="304">
     <last_changeset>
       <id>34346984</id>
       <user>carciofo</user>
       <timestamp>2015-09-30T13:17:45Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4866051" name="Ruta Nacional 26 (super)" description="" ref="26" unsigned_ref="" osm_element_version="2" position="304">
+  <route osm_relation_id="4866051" name="Ruta Nacional 26 (super)" description="" ref="26" unsigned_ref="" osm_element_version="2" position="305">
     <last_changeset>
       <id>31663278</id>
       <user>carciofo</user>
       <timestamp>2015-06-02T13:00:06Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5233220" name="Ruta Nacional 27 (super)" description="" ref="27" unsigned_ref="" osm_element_version="1" position="305">
+  <route osm_relation_id="5233220" name="Ruta Nacional 27 (super)" description="" ref="27" unsigned_ref="" osm_element_version="1" position="306">
     <last_changeset>
       <id>31664135</id>
       <user>carciofo</user>
       <timestamp>2015-06-02T13:28:16Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5258916" name="Ruta Nacional 29 (super)" description="" ref="29" unsigned_ref="" osm_element_version="7" position="306">
+  <route osm_relation_id="5258916" name="Ruta Nacional 29 (super)" description="" ref="29" unsigned_ref="" osm_element_version="7" position="307">
     <last_changeset>
       <id>53110328</id>
       <user>cris_1994</user>
       <timestamp>2017-10-20T20:06:45Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5505831" name="Ruta Nacional 30 (super)" description="" ref="30" unsigned_ref="" osm_element_version="2" position="307">
+  <route osm_relation_id="5505831" name="Ruta Nacional 30 (super)" description="" ref="30" unsigned_ref="" osm_element_version="2" position="308">
     <last_changeset>
       <id>34083180</id>
       <user>carciofo</user>
       <timestamp>2015-09-17T12:53:47Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4857080" name="Ruta Nacional 31 (super)" description="" ref="31" unsigned_ref="" osm_element_version="2" position="308">
+  <route osm_relation_id="4857080" name="Ruta Nacional 31 (super)" description="" ref="31" unsigned_ref="" osm_element_version="2" position="309">
     <last_changeset>
       <id>31294244</id>
       <user>carciofo</user>
       <timestamp>2015-05-19T19:33:47Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4866052" name="Ruta Nacional 37 (super)" description="" ref="37" unsigned_ref="" osm_element_version="1" position="309">
+  <route osm_relation_id="4866052" name="Ruta Nacional 37 (super)" description="" ref="37" unsigned_ref="" osm_element_version="1" position="310">
     <last_changeset>
       <id>30790585</id>
       <user>carciofo</user>
       <timestamp>2015-05-04T20:22:01Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5512193" name="Ruta Nacional 40 (super)" description="" ref="40" unsigned_ref="" osm_element_version="12" position="310">
+  <route osm_relation_id="5512193" name="Ruta Nacional 40 (super)" description="" ref="40" unsigned_ref="" osm_element_version="12" position="311">
     <last_changeset>
       <id>51563696</id>
       <user>JJIglesias</user>
       <timestamp>2017-08-30T06:32:30Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5382957" name="Ruta Nacional 43 (super)" description="" ref="43" unsigned_ref="" osm_element_version="3" position="311">
+  <route osm_relation_id="5382957" name="Ruta Nacional 43 (super)" description="" ref="43" unsigned_ref="" osm_element_version="3" position="312">
     <last_changeset>
       <id>48168627</id>
       <user>carciofo</user>
       <timestamp>2017-04-26T16:44:39Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4765177" name="Ruta Nacional 45 (super)" description="" ref="45" unsigned_ref="" osm_element_version="13" position="312">
+  <route osm_relation_id="4765177" name="Ruta Nacional 45 (super)" description="" ref="45" unsigned_ref="" osm_element_version="13" position="313">
     <last_changeset>
       <id>53482840</id>
       <user>carciofo</user>
       <timestamp>2017-11-03T16:04:28Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="6285724" name="Ruta Nacional 45A (super)" description="" ref="45A" unsigned_ref="" osm_element_version="6" position="313">
+  <route osm_relation_id="6285724" name="Ruta Nacional 45A (super)" description="" ref="45A" unsigned_ref="" osm_element_version="6" position="314">
     <last_changeset>
       <id>47866715</id>
       <user>carciofo</user>
       <timestamp>2017-04-17T11:08:51Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="7635068" name="Ruta Nacional 48 (super)" description="" ref="48" unsigned_ref="" osm_element_version="1" position="314">
+  <route osm_relation_id="7635068" name="Ruta Nacional 48 (super)" description="" ref="48" unsigned_ref="" osm_element_version="1" position="315">
     <last_changeset>
       <id>52717053</id>
       <user>cris_1994</user>
       <timestamp>2017-10-07T20:31:38Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5806685" name="Ruta Nacional 49 (super)" description="" ref="49" unsigned_ref="" osm_element_version="2" position="315">
+  <route osm_relation_id="5806685" name="Ruta Nacional 49 (super)" description="" ref="49" unsigned_ref="" osm_element_version="2" position="316">
     <last_changeset>
       <id>53482665</id>
       <user>carciofo</user>
       <timestamp>2017-11-03T15:57:00Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4546436" name="Ruta Nacional 50 (super)" description="" ref="50" unsigned_ref="" osm_element_version="11" position="316">
+  <route osm_relation_id="4546436" name="Ruta Nacional 50 (super)" description="" ref="50" unsigned_ref="" osm_element_version="11" position="317">
     <last_changeset>
       <id>53480591</id>
       <user>carciofo</user>
       <timestamp>2017-11-03T14:29:23Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="6040159" name="Ruta Nacional 55 (super)" description="" ref="55" unsigned_ref="" osm_element_version="8" position="317">
+  <route osm_relation_id="6040159" name="Ruta Nacional 55 (super)" description="" ref="55" unsigned_ref="" osm_element_version="8" position="318">
     <last_changeset>
       <id>53481040</id>
       <user>carciofo</user>
       <timestamp>2017-11-03T14:47:51Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4511399" name="Ruta Nacional 56 (super)" description="" ref="56" unsigned_ref="" osm_element_version="9" position="318">
+  <route osm_relation_id="4511399" name="Ruta Nacional 56 (super)" description="" ref="56" unsigned_ref="" osm_element_version="9" position="319">
     <last_changeset>
       <id>34090242</id>
       <user>carciofo</user>
       <timestamp>2015-09-17T19:05:56Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4524978" name="Ruta Nacional 60 (super)" description="" ref="60" unsigned_ref="" osm_element_version="8" position="319">
+  <route osm_relation_id="4524978" name="Ruta Nacional 60 (super)" description="" ref="60" unsigned_ref="" osm_element_version="8" position="320">
     <last_changeset>
       <id>30457185</id>
       <user>carciofo</user>
       <timestamp>2015-04-24T16:01:17Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4552931" name="Ruta Nacional 62 (super)" description="" ref="62" unsigned_ref="" osm_element_version="5" position="320">
+  <route osm_relation_id="4552931" name="Ruta Nacional 62 (super)" description="" ref="62" unsigned_ref="" osm_element_version="5" position="321">
     <last_changeset>
       <id>51203292</id>
       <user>carciofo</user>
       <timestamp>2017-08-17T12:10:18Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5172306" name="Ruta Nacional 64 (super)" description="" ref="64" unsigned_ref="" osm_element_version="3" position="321">
+  <route osm_relation_id="5172306" name="Ruta Nacional 64 (super)" description="" ref="64" unsigned_ref="" osm_element_version="3" position="322">
     <last_changeset>
       <id>40543018</id>
       <user>carciofo</user>
       <timestamp>2016-07-07T13:54:22Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5172307" name="Ruta Nacional 65 (super)" description="" ref="65" unsigned_ref="" osm_element_version="4" position="322">
+  <route osm_relation_id="5172307" name="Ruta Nacional 65 (super)" description="" ref="65" unsigned_ref="" osm_element_version="4" position="323">
     <last_changeset>
       <id>34090242</id>
       <user>carciofo</user>
       <timestamp>2015-09-17T19:05:57Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5511697" name="Ruta Nacional 65A (super)" description="" ref="65A" unsigned_ref="" osm_element_version="1" position="323">
+  <route osm_relation_id="5511697" name="Ruta Nacional 65A (super)" description="" ref="65A" unsigned_ref="" osm_element_version="1" position="324">
     <last_changeset>
       <id>34084948</id>
       <user>carciofo</user>
       <timestamp>2015-09-17T14:16:03Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5172201" name="Ruta Nacional 66 (super)" description="" ref="66" unsigned_ref="" osm_element_version="4" position="324">
+  <route osm_relation_id="5172201" name="Ruta Nacional 66 (super)" description="" ref="66" unsigned_ref="" osm_element_version="4" position="325">
     <last_changeset>
       <id>37735539</id>
       <user>carciofo</user>
       <timestamp>2016-03-10T14:40:07Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="6041839" name="Ruta Nacional 70 (super)" description="" ref="70" unsigned_ref="" osm_element_version="2" position="325">
+  <route osm_relation_id="6041839" name="Ruta Nacional 70 (super)" description="" ref="70" unsigned_ref="" osm_element_version="2" position="326">
     <last_changeset>
       <id>37845591</id>
       <user>carciofo</user>
       <timestamp>2016-03-15T15:11:54Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4771046" name="Ruta Nacional 74 (super)" description="" ref="74" unsigned_ref="" osm_element_version="3" position="326">
+  <route osm_relation_id="4771046" name="Ruta Nacional 74 (super)" description="" ref="74" unsigned_ref="" osm_element_version="3" position="327">
     <last_changeset>
       <id>37872063</id>
       <user>carciofo</user>
       <timestamp>2016-03-16T13:53:27Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5186718" name="Ruta Nacional 78 (super)" description="" ref="78" unsigned_ref="" osm_element_version="3" position="327">
+  <route osm_relation_id="5186718" name="Ruta Nacional 78 (super)" description="" ref="78" unsigned_ref="" osm_element_version="3" position="328">
     <last_changeset>
       <id>36573581</id>
       <user>carciofo</user>
       <timestamp>2016-01-14T16:05:58Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5161331" name="Ruta Nacional 80 (super)" description="" ref="80" unsigned_ref="" osm_element_version="3" position="328">
+  <route osm_relation_id="5161331" name="Ruta Nacional 80 (super)" description="" ref="80" unsigned_ref="" osm_element_version="3" position="329">
     <last_changeset>
       <id>36230511</id>
       <user>carciofo</user>
       <timestamp>2015-12-28T22:06:11Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5195666" name="Ruta Nacional 88 (super)" description="" ref="88" unsigned_ref="" osm_element_version="1" position="329">
+  <route osm_relation_id="5195666" name="Ruta Nacional 88 (super)" description="" ref="88" unsigned_ref="" osm_element_version="1" position="330">
     <last_changeset>
       <id>31471471</id>
       <user>carciofo</user>
       <timestamp>2015-05-26T12:56:13Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4740188" name="Ruta Nacional 90 (super)" description="" ref="90" unsigned_ref="" osm_element_version="8" position="330">
+  <route osm_relation_id="4740188" name="Ruta Nacional 90 (super)" description="" ref="90" unsigned_ref="" osm_element_version="8" position="331">
     <last_changeset>
       <id>49899733</id>
       <user>carciofo</user>
       <timestamp>2017-06-28T19:01:40Z</timestamp>
+    </last_changeset>
+  </route>
+  <route osm_relation_id="7706188" name="Ruta Nacional 90A (super)" description="" ref="90A" unsigned_ref="" osm_element_version="1" position="332">
+    <last_changeset>
+      <id>53483931</id>
+      <user>carciofo</user>
+      <timestamp>2017-11-03T16:50:19Z</timestamp>
     </last_changeset>
   </route>
 </routes>
