@@ -62,7 +62,14 @@
                 </a>
               </td>
               <td><xsl:value-of select="tag[@k='name'][1]/@v"/></td>
-              <td><xsl:value-of select="tag[@k='description'][1]/@v"/></td>
+              <td>
+                <xsl:if test="not(tag[@k='description'][1])">
+                  <xsl:attribute name='bgcolor'>
+                    Tomato
+                  </xsl:attribute>
+                </xsl:if>
+                <xsl:value-of select="tag[@k='description'][1]/@v"/>
+              </td>
               <td><xsl:value-of select="tag[@k='ref'][1]/@v"/></td>
               <td><xsl:value-of select="tag[@k='unsigned_ref'][1]/@v"/></td>
               <td><xsl:value-of select="tag[@k='note'][1]/@v"/></td>
