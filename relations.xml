@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2017-11-03T16:56:02Z"/>
+<meta osm_base="2017-11-03T20:23:02Z"/>
 
   <relation id="1084111" version="10" timestamp="2017-03-31T12:40:01Z" changeset="47324247" uid="2678395" user="arturogutipi">
     <member type="way" ref="76589647" role=""/>
@@ -545,7 +545,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4546436" version="11" timestamp="2017-11-03T14:29:23Z" changeset="53480591" uid="2533093" user="carciofo">
+  <relation id="4546436" version="12" timestamp="2017-11-03T19:32:30Z" changeset="53487642" uid="2533093" user="carciofo">
     <member type="relation" ref="4546435" role=""/>
     <member type="relation" ref="4546557" role=""/>
     <member type="relation" ref="4749424" role=""/>
@@ -558,6 +558,7 @@
     <member type="relation" ref="6384715" role=""/>
     <member type="relation" ref="4743220" role=""/>
     <member type="relation" ref="7380932" role=""/>
+    <member type="relation" ref="6384716" role=""/>
     <member type="relation" ref="7625526" role=""/>
     <member type="relation" ref="4744695" role=""/>
     <tag k="name" v="Ruta Nacional 50 (super)"/>
@@ -6522,7 +6523,10 @@
     <tag k="type" v="route"/>
     <tag k="unsigned_ref" v="40 MT A"/>
   </relation>
-  <relation id="5512186" version="2" timestamp="2017-07-12T00:55:32Z" changeset="50215801" uid="5269" user="fredw">
+  <relation id="5512186" version="3" timestamp="2017-11-03T19:31:29Z" changeset="53487614" uid="2533093" user="carciofo">
+    <member type="way" ref="145066540" role=""/>
+    <member type="way" ref="538077995" role=""/>
+    <member type="way" ref="166722134" role=""/>
     <member type="way" ref="218550087" role=""/>
     <member type="way" ref="371250567" role=""/>
     <member type="way" ref="38743945" role=""/>
@@ -8726,7 +8730,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6040159" version="8" timestamp="2017-11-03T14:47:51Z" changeset="53481040" uid="2533093" user="carciofo">
+  <relation id="6040159" version="9" timestamp="2017-11-03T19:31:29Z" changeset="53487614" uid="2533093" user="carciofo">
     <member type="relation" ref="6379004" role=""/>
     <member type="relation" ref="7705838" role=""/>
     <member type="relation" ref="6056393" role=""/>
@@ -8735,7 +8739,7 @@
     <member type="relation" ref="6056395" role=""/>
     <member type="relation" ref="6056389" role=""/>
     <member type="relation" ref="6379002" role=""/>
-    <member type="relation" ref="6384716" role=""/>
+    <member type="relation" ref="7706583" role=""/>
     <member type="relation" ref="6379003" role=""/>
     <member type="relation" ref="7668908" role=""/>
     <member type="relation" ref="6054515" role=""/>
@@ -9985,7 +9989,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6379004" version="9" timestamp="2017-10-21T14:12:11Z" changeset="53129175" uid="2533093" user="carciofo">
+  <relation id="6379004" version="10" timestamp="2017-11-03T19:31:30Z" changeset="53487614" uid="2533093" user="carciofo">
     <member type="way" ref="528169734" role="forward"/>
     <member type="way" ref="39702742" role="forward"/>
     <member type="way" ref="528175369" role="forward"/>
@@ -10037,11 +10041,10 @@
     <member type="way" ref="82352691" role="forward"/>
     <member type="way" ref="316465512" role="forward"/>
     <member type="way" ref="42450610" role="forward"/>
-    <member type="way" ref="62091780" role="forward"/>
     <member type="way" ref="62092085" role="forward"/>
     <member type="way" ref="62092084" role="forward"/>
+    <member type="way" ref="538078027" role="forward"/>
     <member type="way" ref="62091781" role="forward"/>
-    <member type="way" ref="24599042" role="forward"/>
     <member type="way" ref="423141348" role="forward"/>
     <member type="way" ref="319754646" role="forward"/>
     <member type="way" ref="50716037" role="forward"/>
@@ -10076,13 +10079,13 @@
     <member type="way" ref="82352725" role="forward"/>
     <member type="way" ref="82352732" role="forward"/>
     <member type="way" ref="38744831" role="forward"/>
-    <member type="way" ref="24034277" role="forward"/>
     <member type="way" ref="42450609" role="forward"/>
     <member type="way" ref="62091777" role="forward"/>
     <member type="way" ref="42450611" role="forward"/>
     <member type="way" ref="24599044" role="forward"/>
+    <member type="way" ref="538078025" role="forward"/>
+    <member type="way" ref="538078026" role="forward"/>
     <member type="way" ref="316465508" role="forward"/>
-    <member type="way" ref="42450606" role="forward"/>
     <member type="way" ref="82352727" role="forward"/>
     <member type="way" ref="82352728" role="forward"/>
     <member type="way" ref="82352714" role="forward"/>
@@ -10144,19 +10147,18 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6384716" version="2" timestamp="2017-10-29T20:13:37Z" changeset="53351663" uid="2533093" user="carciofo">
+  <relation id="6384716" version="3" timestamp="2017-11-03T19:31:30Z" changeset="53487614" uid="2533093" user="carciofo">
     <member type="way" ref="361436380" role=""/>
     <member type="way" ref="28828409" role=""/>
     <member type="way" ref="32875233" role=""/>
     <member type="way" ref="220738456" role=""/>
     <member type="way" ref="119106084" role=""/>
-    <tag k="description" v="Cruce Ruta 55 - Cruce Ruta 56"/>
-    <tag k="distance" v="6.08"/>
-    <tag k="name" v="55 CN 03"/>
+    <tag k="description" v="Tramo El Salitre - Sopó - Cruce Ruta 55 (Briceño)"/>
+    <tag k="name" v="50 CN 03"/>
     <tag k="network" v="co:national"/>
-    <tag k="ref" v="55 CN 03"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
+    <tag k="unsigned_ref" v="50 CN 03"/>
   </relation>
   <relation id="6386735" version="1" timestamp="2016-07-05T10:02:19Z" changeset="40495893" uid="2533093" user="carciofo">
     <member type="way" ref="95834235" role="forward"/>
@@ -11568,6 +11570,18 @@
     <tag k="symbol" v="https://upload.wikimedia.org/wikipedia/commons/0/07/Rutacol-90A.svg"/>
     <tag k="type" v="route"/>
     <tag k="wikipedia" v="es:Ruta Nacional 90 (Colombia)"/>
+  </relation>
+  <relation id="7706583" version="1" timestamp="2017-11-03T19:31:15Z" changeset="53487614" uid="2533093" user="carciofo">
+    <member type="way" ref="393212479" role="forward"/>
+    <member type="way" ref="393212481" role="forward"/>
+    <member type="way" ref="371619382" role=""/>
+    <tag k="description" v="Cruce Ruta 55 - Cruce Ruta 56"/>
+    <tag k="distance" v="6.08"/>
+    <tag k="name" v="55 CN 03"/>
+    <tag k="network" v="co:national"/>
+    <tag k="ref" v="55 CN 03"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
   </relation>
 
 </osm>
