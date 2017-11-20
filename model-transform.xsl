@@ -25,9 +25,6 @@
             <xsl:attribute name="osm_element_version">
               <xsl:value-of select="@version"/>
             </xsl:attribute>
-            <xsl:attribute name="position">
-              <xsl:value-of select="position()" />
-            </xsl:attribute>
             <last_changeset>
                 <id><xsl:value-of select="@changeset"/></id>
                 <user><xsl:value-of select="@user"/></user>
