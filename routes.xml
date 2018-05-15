@@ -28,11 +28,11 @@
       <timestamp>2017-11-20T18:52:07Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5218822" name="13-07" description="Tramo Nóvita-Las Ánimas-Quibdó" ref="13" unsigned_ref="" osm_element_version="6">
+  <route osm_relation_id="5218822" name="13-07" description="Tramo Nóvita-Las Ánimas-Quibdó" ref="13" unsigned_ref="" osm_element_version="8">
     <last_changeset>
-      <id>53348149</id>
+      <id>54980944</id>
       <user>carciofo</user>
-      <timestamp>2017-10-29T17:38:11Z</timestamp>
+      <timestamp>2017-12-28T11:58:30Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4752103" name="17-01" description="Tramo Chiles-Guachucal-El Espino" ref="17" unsigned_ref="" osm_element_version="7">
@@ -194,6 +194,13 @@
       <id>32555813</id>
       <user>JULIAN ANDRES MEDINA SANTACRUZ</user>
       <timestamp>2015-07-10T23:46:04Z</timestamp>
+    </last_changeset>
+  </route>
+  <route osm_relation_id="7749658" name="25 AT A" description="Variante Palmar de Varela - Sabanagrande" ref="" unsigned_ref="" osm_element_version="2">
+    <last_changeset>
+      <id>54199700</id>
+      <user>carciofo</user>
+      <timestamp>2017-11-30T09:15:42Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5253890" name="25 BL 02" description="Carreto-Cruz del Visto" ref="" unsigned_ref="25 BL 02" osm_element_version="1">
@@ -365,11 +372,11 @@
       <timestamp>2017-09-03T20:29:44Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4752710" name="25-02" description="Tramo San Juan de Pasto-Mojarras" ref="25" unsigned_ref="" osm_element_version="4">
+  <route osm_relation_id="4752710" name="25-02" description="Tramo San Juan de Pasto-Mojarras" ref="25" unsigned_ref="" osm_element_version="5">
     <last_changeset>
-      <id>50043625</id>
-      <user>kaxtillo</user>
-      <timestamp>2017-07-04T20:09:12Z</timestamp>
+      <id>53975105</id>
+      <user>carciofo</user>
+      <timestamp>2017-11-21T12:51:17Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4856331" name="25-03" description="Tramo Mojarras-Popayán" ref="25" unsigned_ref="" osm_element_version="6">
@@ -379,11 +386,11 @@
       <timestamp>2017-11-09T19:28:42Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4857078" name="25-04" description="Tramo Popayán-Cali" ref="25" unsigned_ref="" osm_element_version="15">
+  <route osm_relation_id="4857078" name="25-04" description="Tramo Popayán-Cali" ref="25" unsigned_ref="" osm_element_version="16">
     <last_changeset>
-      <id>49941740</id>
-      <user>carciofo</user>
-      <timestamp>2017-06-30T11:23:27Z</timestamp>
+      <id>54005137</id>
+      <user>kaxtillo</user>
+      <timestamp>2017-11-22T16:03:44Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4864512" name="25-04A" description="Cruce Villarica - Puerto Tejada - Palmira" ref="25" unsigned_ref="" osm_element_version="12">
@@ -435,11 +442,11 @@
       <timestamp>2017-10-29T15:37:15Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5255618" name="25-10" description="Tramo Medellín-Los Llanos" ref="25" unsigned_ref="" osm_element_version="26">
+  <route osm_relation_id="5255618" name="25-10" description="Tramo Medellín-Los Llanos" ref="25" unsigned_ref="" osm_element_version="27">
     <last_changeset>
-      <id>53126972</id>
+      <id>54200803</id>
       <user>carciofo</user>
-      <timestamp>2017-10-21T12:30:22Z</timestamp>
+      <timestamp>2017-11-30T10:09:51Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5255619" name="25-11" description="Tramo Los Llanos-Tarazá" ref="25" unsigned_ref="" osm_element_version="10">
@@ -477,11 +484,11 @@
       <timestamp>2017-10-29T20:10:30Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5253892" name="25-16" description="Calamar - Barranquilla" ref="25" unsigned_ref="" osm_element_version="3">
+  <route osm_relation_id="5253892" name="25-16" description="Calamar - Barranquilla" ref="25" unsigned_ref="" osm_element_version="4">
     <last_changeset>
-      <id>53351613</id>
+      <id>54199700</id>
       <user>carciofo</user>
-      <timestamp>2017-10-29T20:10:58Z</timestamp>
+      <timestamp>2017-11-30T09:15:42Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5548680" name="25B-01" description="Tramo La Pintada-Bolombolo" ref="25B" unsigned_ref="" osm_element_version="3">
@@ -575,18 +582,18 @@
       <timestamp>2017-11-20T17:59:12Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="7649511" name="29 RS B" description="Tramo Variante de Galicia" ref="" unsigned_ref="" osm_element_version="2">
+  <route osm_relation_id="7649511" name="29 RS B" description="Tramo Variante de Galicia" ref="" unsigned_ref="" osm_element_version="3">
     <last_changeset>
-      <id>53956305</id>
-      <user>carciofo</user>
-      <timestamp>2017-11-20T17:59:12Z</timestamp>
+      <id>54751342</id>
+      <user>carfog81</user>
+      <timestamp>2017-12-19T07:49:10Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5258910" name="29 RS C" description="Tramo Intersección El Jazmín - Estación de Servicio Chinchiná" ref="" unsigned_ref="29 RS C" osm_element_version="17">
+  <route osm_relation_id="5258910" name="29 RS C" description="Tramo Intersección El Jazmín - Estación de Servicio Chinchiná" ref="" unsigned_ref="29 RS C" osm_element_version="19">
     <last_changeset>
-      <id>53811946</id>
-      <user>Jan van Bekkum</user>
-      <timestamp>2017-11-15T18:16:45Z</timestamp>
+      <id>54817036</id>
+      <user>opengislab</user>
+      <timestamp>2017-12-21T14:59:40Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5258912" name="29 RS D" description="Variante Condina" ref="" unsigned_ref="29 RS D" osm_element_version="10">
@@ -610,11 +617,11 @@
       <timestamp>2017-10-06T09:30:29Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5258914" name="29-01" description="Tramo Armenia-Pereira" ref="29" unsigned_ref="" osm_element_version="13">
+  <route osm_relation_id="5258914" name="29-01" description="Tramo Armenia-Pereira" ref="29" unsigned_ref="" osm_element_version="19">
     <last_changeset>
-      <id>53914249</id>
-      <user>cris_1994</user>
-      <timestamp>2017-11-19T01:21:08Z</timestamp>
+      <id>54637705</id>
+      <user>carfog81</user>
+      <timestamp>2017-12-14T22:22:53Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="7627811" name="29-01B" description="Tramo Armenia - Montenegro - Alcalá" ref="29" unsigned_ref="" osm_element_version="16">
@@ -624,11 +631,11 @@
       <timestamp>2017-11-20T02:54:02Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5258915" name="29-02" description="Tramo Pereira - Chinchiná - Manizales" ref="29" unsigned_ref="" osm_element_version="39">
+  <route osm_relation_id="5258915" name="29-02" description="Tramo Pereira - Chinchiná - Manizales" ref="29" unsigned_ref="" osm_element_version="40">
     <last_changeset>
-      <id>53821928</id>
+      <id>54112366</id>
       <user>carfog81</user>
-      <timestamp>2017-11-15T22:37:52Z</timestamp>
+      <timestamp>2017-11-27T05:44:39Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="7667513" name="29-02A" description="Avenida del Ferrocarril de Dosquebradas" ref="29" unsigned_ref="" osm_element_version="4">
@@ -687,18 +694,18 @@
       <timestamp>2017-07-24T18:39:36Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="7416442" name="40 CN 07" description="Perimetral de la Sabana (Chusacá - Canoas - Río Bogotá)" ref="" unsigned_ref="40 CN 07" osm_element_version="3">
+  <route osm_relation_id="7416442" name="40 CN 07" description="Perimetral de la Sabana (Chusacá - Canoas - Río Bogotá)" ref="" unsigned_ref="40 CN 07" osm_element_version="4">
     <last_changeset>
-      <id>53614040</id>
-      <user>xcilin</user>
-      <timestamp>2017-11-08T15:51:23Z</timestamp>
+      <id>54769144</id>
+      <user>cris_1994</user>
+      <timestamp>2017-12-19T19:47:36Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5535086" name="40 CN A" description="Paso por Chipaque" ref="" unsigned_ref="40 CN A" osm_element_version="1">
+  <route osm_relation_id="5535086" name="40 CN A" description="Paso por Chipaque" ref="" unsigned_ref="40 CN A" osm_element_version="2">
     <last_changeset>
-      <id>34232943</id>
-      <user>carciofo</user>
-      <timestamp>2015-09-24T19:42:07Z</timestamp>
+      <id>54767373</id>
+      <user>cris_1994</user>
+      <timestamp>2017-12-19T18:42:21Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5535038" name="40 CN B" description="Paso por Cáqueza" ref="" unsigned_ref="40 CN B" osm_element_version="3">
@@ -841,11 +848,11 @@
       <timestamp>2017-07-24T18:39:37Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5536634" name="40-05" description="Tramo Girardot-Silvania-Bogotá (Bosa)" ref="40" unsigned_ref="" osm_element_version="27">
+  <route osm_relation_id="5536634" name="40-05" description="Tramo Girardot-Silvania-Bogotá (Bosa)" ref="40" unsigned_ref="" osm_element_version="31">
     <last_changeset>
-      <id>53614293</id>
-      <user>xcilin</user>
-      <timestamp>2017-11-08T16:03:37Z</timestamp>
+      <id>54925352</id>
+      <user>juanda097</user>
+      <timestamp>2017-12-26T09:56:55Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5535040" name="40-06" description="Tramo Bogotá (El Portal)-Villavicencio" ref="40" unsigned_ref="" osm_element_version="6">
@@ -1261,11 +1268,11 @@
       <timestamp>2017-11-03T14:29:17Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="6393056" name="50-08" description="Tramo Honda-Villeta-Tobiagrande-Bogotá" ref="50" unsigned_ref="" osm_element_version="10">
+  <route osm_relation_id="6393056" name="50-08" description="Tramo Honda-Villeta-Tobiagrande-Bogotá" ref="50" unsigned_ref="" osm_element_version="11">
     <last_changeset>
-      <id>53480591</id>
-      <user>carciofo</user>
-      <timestamp>2017-11-03T14:29:23Z</timestamp>
+      <id>54936515</id>
+      <user>Joël Koeckhoven</user>
+      <timestamp>2017-12-26T18:21:35Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="7625527" name="50-08A" description="Tramo Los Alpes - Bogotá" ref="" unsigned_ref="" osm_element_version="6">
@@ -1395,32 +1402,32 @@
       <timestamp>2016-03-09T11:31:52Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4744697" name="56 AN 02" description="Ramal Don Diego-Rionegro-Marinilla" ref="" unsigned_ref="56 AN 02" osm_element_version="4">
+  <route osm_relation_id="4744697" name="56 AN 02" description="Ramal Don Diego-Rionegro-Marinilla" ref="" unsigned_ref="56 AN 02" osm_element_version="6">
     <last_changeset>
-      <id>34090242</id>
-      <user>carciofo</user>
-      <timestamp>2015-09-17T19:05:55Z</timestamp>
+      <id>54870172</id>
+      <user>JLOSM</user>
+      <timestamp>2017-12-23T18:36:52Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4744698" name="56 AN 02_1" description="Ramal Rionegro-El Carmen de Viboral" ref="" unsigned_ref="56 AN 02-01" osm_element_version="6">
+  <route osm_relation_id="4744698" name="56 AN 02_1" description="Ramal Rionegro-El Carmen de Viboral" ref="" unsigned_ref="56 AN 02-01" osm_element_version="7">
     <last_changeset>
-      <id>53477279</id>
-      <user>carciofo</user>
-      <timestamp>2017-11-03T12:06:27Z</timestamp>
+      <id>54870172</id>
+      <user>JLOSM</user>
+      <timestamp>2017-12-23T18:36:52Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4744699" name="56 AN 03" description="Ramal Rionegro-La Ceja" ref="" unsigned_ref="56 AN 01" osm_element_version="5">
+  <route osm_relation_id="4744699" name="56 AN 03" description="Ramal Rionegro-La Ceja" ref="" unsigned_ref="56 AN 01" osm_element_version="7">
     <last_changeset>
-      <id>42962750</id>
-      <user>carciofo</user>
-      <timestamp>2016-10-17T15:57:58Z</timestamp>
+      <id>54856070</id>
+      <user>JLOSM</user>
+      <timestamp>2017-12-23T04:59:13Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4538293" name="56-01" description="Tramo Medellin-San Diego-La Union-Sonson" ref="56" unsigned_ref="" osm_element_version="13">
+  <route osm_relation_id="4538293" name="56-01" description="Tramo Medellin-San Diego-La Union-Sonson" ref="56" unsigned_ref="" osm_element_version="14">
     <last_changeset>
-      <id>53344526</id>
-      <user>carciofo</user>
-      <timestamp>2017-10-29T15:18:03Z</timestamp>
+      <id>54716315</id>
+      <user>Miguel Angel Jiménez García</user>
+      <timestamp>2017-12-17T23:21:48Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4538294" name="56-04" description="Tramo Puerto Salgar-Yacopí-La Palma" ref="56" unsigned_ref="" osm_element_version="2">
@@ -1458,11 +1465,11 @@
       <timestamp>2017-11-03T15:07:40Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4536392" name="60-04" description="Tramo Medellin-Santuario" ref="60" unsigned_ref="" osm_element_version="8">
+  <route osm_relation_id="4536392" name="60-04" description="Tramo Medellin-Santuario" ref="60" unsigned_ref="" osm_element_version="11">
     <last_changeset>
-      <id>53481454</id>
-      <user>carciofo</user>
-      <timestamp>2017-11-03T15:07:41Z</timestamp>
+      <id>54919407</id>
+      <user>JLOSM</user>
+      <timestamp>2017-12-26T02:40:49Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4536393" name="60-05" description="Tramo Santuario - Cruce Ruta 45 (Caño Alegre)" ref="60" unsigned_ref="" osm_element_version="11">
@@ -1514,18 +1521,18 @@
       <timestamp>2015-04-24T08:23:16Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4552927" name="62-01" description="Tramo Turbo-Chigorodó" ref="62" unsigned_ref="" osm_element_version="13">
+  <route osm_relation_id="4552927" name="62-01" description="Tramo Turbo-Chigorodó" ref="62" unsigned_ref="" osm_element_version="14">
     <last_changeset>
-      <id>53481454</id>
-      <user>carciofo</user>
-      <timestamp>2017-11-03T15:07:43Z</timestamp>
+      <id>54475315</id>
+      <user>JLOSM</user>
+      <timestamp>2017-12-09T03:24:12Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4552928" name="62-02" description="Tramo Chigorodó-Dabeiba" ref="62" unsigned_ref="" osm_element_version="13">
+  <route osm_relation_id="4552928" name="62-02" description="Tramo Chigorodó-Dabeiba" ref="62" unsigned_ref="" osm_element_version="15">
     <last_changeset>
-      <id>53481454</id>
-      <user>carciofo</user>
-      <timestamp>2017-11-03T15:07:44Z</timestamp>
+      <id>53982312</id>
+      <user>Federico Explorador</user>
+      <timestamp>2017-11-21T18:03:26Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4552929" name="62-03" description="Tramo Dabeiba-Santafé de Antioquia" ref="62" unsigned_ref="" osm_element_version="8">
@@ -1549,11 +1556,11 @@
       <timestamp>2017-10-17T01:27:43Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4826667" name="62-06" description="Tramo Cisneros-Puerto Berrío-Cruce Ruta 45" ref="62" unsigned_ref="" osm_element_version="8">
+  <route osm_relation_id="4826667" name="62-06" description="Tramo Cisneros-Puerto Berrío-Cruce Ruta 45" ref="62" unsigned_ref="" osm_element_version="9">
     <last_changeset>
-      <id>52339039</id>
-      <user>JLOSM</user>
-      <timestamp>2017-09-24T20:55:30Z</timestamp>
+      <id>54707844</id>
+      <user>cris_1994</user>
+      <timestamp>2017-12-17T16:47:38Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4827212" name="62-07" description="Tramo Cruce Puerto Araujo-Landázuri" ref="62" unsigned_ref="" osm_element_version="4">
@@ -1612,11 +1619,11 @@
       <timestamp>2017-01-06T15:11:45Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5172302" name="64-04" description="Tramo Belén-Sácama" ref="64" unsigned_ref="" osm_element_version="4">
+  <route osm_relation_id="5172302" name="64-04" description="Tramo Belén-Sácama" ref="64" unsigned_ref="" osm_element_version="7">
     <last_changeset>
-      <id>50140695</id>
-      <user>carciofo</user>
-      <timestamp>2017-07-08T22:06:26Z</timestamp>
+      <id>54289082</id>
+      <user>Federico Explorador</user>
+      <timestamp>2017-12-03T05:39:01Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5172303" name="64-05" description="Tramo Sácama-La Cabuya" ref="64" unsigned_ref="" osm_element_version="2">
@@ -1724,11 +1731,11 @@
       <timestamp>2017-07-08T22:20:22Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5511696" name="65A-02" description="Tramo La Uribe-Ye de Granada" ref="65A" unsigned_ref="" osm_element_version="5">
+  <route osm_relation_id="5511696" name="65A-02" description="Tramo La Uribe-Ye de Granada" ref="65A" unsigned_ref="" osm_element_version="6">
     <last_changeset>
-      <id>48519262</id>
-      <user>Federico Explorador</user>
-      <timestamp>2017-05-09T03:10:23Z</timestamp>
+      <id>54984678</id>
+      <user>carciofo</user>
+      <timestamp>2017-12-28T14:30:08Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="6040024" name="66 ST 02" description="Te Aeropuerto" ref="" unsigned_ref="66 ST 02" osm_element_version="2">
@@ -1935,6 +1942,13 @@
       <timestamp>2015-10-24T09:19:50Z</timestamp>
     </last_changeset>
   </route>
+  <route osm_relation_id="7749625" name="90 AT 01" description="Tramo Sabana - Palmar de Varela" ref="" unsigned_ref="" osm_element_version="2">
+    <last_changeset>
+      <id>53975642</id>
+      <user>carciofo</user>
+      <timestamp>2017-11-21T13:16:13Z</timestamp>
+    </last_changeset>
+  </route>
   <route osm_relation_id="5185878" name="90 BL B" description="Variante de Gambote" ref="" unsigned_ref="90 BL B" osm_element_version="2">
     <last_changeset>
       <id>53951611</id>
@@ -1963,11 +1977,11 @@
       <timestamp>2017-09-04T17:07:39Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4740186" name="90-02" description="Tramo Necoclí-Puerto Rey" ref="90" unsigned_ref="" osm_element_version="11">
+  <route osm_relation_id="4740186" name="90-02" description="Tramo Necoclí-Puerto Rey" ref="90" unsigned_ref="" osm_element_version="12">
     <last_changeset>
-      <id>49676110</id>
+      <id>54475315</id>
       <user>JLOSM</user>
-      <timestamp>2017-06-19T20:17:51Z</timestamp>
+      <timestamp>2017-12-09T03:24:12Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="7362461" name="90-03" description="Tramo San Bernardo del Viento - Lorica" ref="90" unsigned_ref="" osm_element_version="1">
@@ -1985,25 +1999,25 @@
       <timestamp>2015-05-24T20:42:39Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5185880" name="90-05" description="Tramo San Onofre-Cartagena" ref="90" unsigned_ref="" osm_element_version="7">
+  <route osm_relation_id="5185880" name="90-05" description="Tramo San Onofre-Cartagena" ref="90" unsigned_ref="" osm_element_version="8">
     <last_changeset>
-      <id>38154257</id>
-      <user>Nodes&amp;Roads</user>
-      <timestamp>2016-03-29T22:17:04Z</timestamp>
+      <id>54642439</id>
+      <user>espinozahg</user>
+      <timestamp>2017-12-15T04:40:47Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5186716" name="90-06" description="Tramo Cartagena-Sabanalarga-Barranquilla" ref="90" unsigned_ref="" osm_element_version="10">
+  <route osm_relation_id="5186716" name="90-06" description="Tramo Cartagena-Sabanalarga-Barranquilla" ref="90" unsigned_ref="" osm_element_version="11">
     <last_changeset>
-      <id>45530955</id>
+      <id>53975350</id>
       <user>carciofo</user>
-      <timestamp>2017-01-26T21:41:53Z</timestamp>
+      <timestamp>2017-11-21T13:02:55Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5195358" name="90-07" description="Tramo Barranquilla-Santa Marta" ref="90" unsigned_ref="" osm_element_version="16">
+  <route osm_relation_id="5195358" name="90-07" description="Tramo Barranquilla-Santa Marta" ref="90" unsigned_ref="" osm_element_version="18">
     <last_changeset>
-      <id>52307786</id>
-      <user>GermanOrtizP</user>
-      <timestamp>2017-09-23T16:06:19Z</timestamp>
+      <id>54984044</id>
+      <user>carciofo</user>
+      <timestamp>2017-12-28T13:56:40Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5195359" name="90-07A" description="Cruce Tramo 9007 - Puerto de Santa Marta" ref="90" unsigned_ref="" osm_element_version="6">
@@ -2136,11 +2150,11 @@
       <timestamp>2015-06-02T08:14:16Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4742984" name="Ruta Nacional 25 (super)" description="" ref="25" unsigned_ref="" osm_element_version="29">
+  <route osm_relation_id="4742984" name="Ruta Nacional 25 (super)" description="" ref="25" unsigned_ref="" osm_element_version="31">
     <last_changeset>
-      <id>53957221</id>
+      <id>53975642</id>
       <user>carciofo</user>
-      <timestamp>2017-11-20T18:38:13Z</timestamp>
+      <timestamp>2017-11-21T13:16:13Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5548682" name="Ruta Nacional 25B (super)" description="" ref="25B" unsigned_ref="" osm_element_version="1">
@@ -2332,11 +2346,11 @@
       <timestamp>2015-05-26T12:56:13Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4740188" name="Ruta Nacional 90 (super)" description="" ref="90" unsigned_ref="" osm_element_version="8">
+  <route osm_relation_id="4740188" name="Ruta Nacional 90 (super)" description="" ref="90" unsigned_ref="" osm_element_version="9">
     <last_changeset>
-      <id>49899733</id>
+      <id>53975350</id>
       <user>carciofo</user>
-      <timestamp>2017-06-28T19:01:40Z</timestamp>
+      <timestamp>2017-11-21T13:02:54Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="7706188" name="Ruta Nacional 90A (super)" description="" ref="90A" unsigned_ref="" osm_element_version="1">
