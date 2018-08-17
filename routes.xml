@@ -7,11 +7,11 @@
       <timestamp>2018-04-13T06:22:04Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4752046" name="10-02" description="Tramo Junin-Pedregal" ref="10" unsigned_ref="" osm_element_version="4">
+  <route osm_relation_id="4752046" name="10-02" description="Tramo Junin-Pedregal" ref="10" unsigned_ref="" osm_element_version="6">
     <last_changeset>
-      <id>53344929</id>
+      <id>61594876</id>
       <user>carciofo</user>
-      <timestamp>2017-10-29T15:35:41Z</timestamp>
+      <timestamp>2018-08-12T17:18:37Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4764866" name="10-03" description="Tramo Pasto-El Encano-El Pepino" ref="10" unsigned_ref="" osm_element_version="9">
@@ -42,11 +42,11 @@
       <timestamp>2018-04-16T18:45:21Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4752047" name="17-02" description="Tramo Tuquerres-Samaniego-Sotomayor" ref="17" unsigned_ref="" osm_element_version="6">
+  <route osm_relation_id="4752047" name="17-02" description="Tramo Tuquerres-Samaniego-Sotomayor" ref="17" unsigned_ref="" osm_element_version="7">
     <last_changeset>
-      <id>53348149</id>
+      <id>61585973</id>
       <user>carciofo</user>
-      <timestamp>2017-10-29T17:38:11Z</timestamp>
+      <timestamp>2018-08-12T11:48:30Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5221418" name="19-01" description="Cali - Cruce Ruta 40 (Loboguerro)" ref="19" unsigned_ref="" osm_element_version="33">
@@ -456,11 +456,11 @@
       <timestamp>2018-06-04T14:17:34Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5255620" name="25-12" description="Tramo Tarazá-Caucasia" ref="25" unsigned_ref="" osm_element_version="14">
+  <route osm_relation_id="5255620" name="25-12" description="Tramo Tarazá-Caucasia" ref="25" unsigned_ref="" osm_element_version="15">
     <last_changeset>
-      <id>59572179</id>
-      <user>GeoFrizz</user>
-      <timestamp>2018-06-05T14:47:52Z</timestamp>
+      <id>61569981</id>
+      <user>JLOSM</user>
+      <timestamp>2018-08-11T16:59:47Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5255621" name="25-13" description="Tramo Caucasia-Planeta Rica" ref="25" unsigned_ref="" osm_element_version="6">
@@ -799,18 +799,18 @@
       <timestamp>2015-09-25T15:47:13Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="7384581" name="40 VL A" description="Transversal Buenaventura - Villavicencio - Puerto Carreño" ref="" unsigned_ref="" osm_element_version="2">
+  <route osm_relation_id="7384581" name="40 VL A" description="Transversal Buenaventura - Villavicencio - Puerto Carreño" ref="" unsigned_ref="" osm_element_version="3">
     <last_changeset>
-      <id>50166849</id>
+      <id>61545592</id>
       <user>carciofo</user>
-      <timestamp>2017-07-10T06:32:24Z</timestamp>
+      <timestamp>2018-08-10T17:09:09Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5535469" name="40-01" description="Tramo Buenaventura-Cruce Ruta 25 (Buga)" ref="40" unsigned_ref="" osm_element_version="94">
+  <route osm_relation_id="5535469" name="40-01" description="Tramo Buenaventura-Cruce Ruta 25 (Buga)" ref="40" unsigned_ref="" osm_element_version="95">
     <last_changeset>
-      <id>59993269</id>
-      <user>Ivan Arenas</user>
-      <timestamp>2018-06-19T23:26:27Z</timestamp>
+      <id>61545592</id>
+      <user>carciofo</user>
+      <timestamp>2018-08-10T17:09:07Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5536629" name="40-02" description="Tramo La Paila-Armenia" ref="40" unsigned_ref="" osm_element_version="8">
@@ -820,11 +820,11 @@
       <timestamp>2018-05-14T19:22:31Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="5536630" name="40-02A" description="Tramo Uribe-La Española-Calarcá" ref="40" unsigned_ref="" osm_element_version="5">
+  <route osm_relation_id="5536630" name="40-02A" description="Tramo Uribe-La Española-Calarcá" ref="40" unsigned_ref="" osm_element_version="6">
     <last_changeset>
-      <id>60872420</id>
+      <id>61608054</id>
       <user>CamiloBermúdez</user>
-      <timestamp>2018-07-19T13:25:33Z</timestamp>
+      <timestamp>2018-08-13T01:37:13Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5536631" name="40-03" description="Tramo Armenia-La Línea" ref="40" unsigned_ref="" osm_element_version="34">
@@ -1135,18 +1135,18 @@
       <timestamp>2017-11-20T16:35:45Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="6285711" name="45A-04" description="Tramo Bogotá-Ubaté" ref="45A" unsigned_ref="" osm_element_version="13">
+  <route osm_relation_id="6285711" name="45A-04" description="Tramo Bogotá-Ubaté" ref="45A" unsigned_ref="" osm_element_version="14">
     <last_changeset>
-      <id>61406617</id>
-      <user>SirWeigel</user>
-      <timestamp>2018-08-06T14:33:03Z</timestamp>
+      <id>61485186</id>
+      <user>Francisco Farmer</user>
+      <timestamp>2018-08-09T02:50:47Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="6286511" name="45A-05" description="Tramo Ubaté - Puente Nacional" ref="45A" unsigned_ref="" osm_element_version="3">
+  <route osm_relation_id="6286511" name="45A-05" description="Tramo Ubaté - Puente Nacional" ref="45A" unsigned_ref="" osm_element_version="4">
     <last_changeset>
-      <id>58660321</id>
-      <user>nolbertoc</user>
-      <timestamp>2018-05-03T20:53:24Z</timestamp>
+      <id>61485186</id>
+      <user>Francisco Farmer</user>
+      <timestamp>2018-08-09T02:50:49Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="6287315" name="45A-06" description="Tramo Puente Nacional - San Gil" ref="45A" unsigned_ref="" osm_element_version="9">
@@ -1198,11 +1198,11 @@
       <timestamp>2017-10-29T16:01:15Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="7380932" name="50 CN 01" description="Guaduas - Caparri - La Aguada" ref="" unsigned_ref="" osm_element_version="3">
+  <route osm_relation_id="7380932" name="50 CN 01" description="Guaduas - Caparri - La Aguada" ref="" unsigned_ref="" osm_element_version="4">
     <last_changeset>
-      <id>50469432</id>
-      <user>fredw</user>
-      <timestamp>2017-07-21T21:02:29Z</timestamp>
+      <id>61709488</id>
+      <user>carciofo</user>
+      <timestamp>2018-08-16T10:06:42Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="6384716" name="50 CN 03" description="Tramo El Salitre - Sopó - Cruce Ruta 55 (Briceño)" ref="" unsigned_ref="50 CN 03" osm_element_version="5">
@@ -1268,11 +1268,11 @@
       <timestamp>2018-02-13T17:50:10Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="6393056" name="50-08" description="Tramo Honda-Villeta-Tobiagrande-Bogotá" ref="50" unsigned_ref="" osm_element_version="18">
+  <route osm_relation_id="6393056" name="50-08" description="Tramo Honda-Villeta-Tobiagrande-Bogotá" ref="50" unsigned_ref="" osm_element_version="20">
     <last_changeset>
-      <id>60551672</id>
-      <user>SirWeigel</user>
-      <timestamp>2018-07-09T20:12:46Z</timestamp>
+      <id>61515132</id>
+      <user>Kitol</user>
+      <timestamp>2018-08-09T22:56:16Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="7625527" name="50-08A" description="Tramo Los Alpes - Bogotá" ref="" unsigned_ref="" osm_element_version="10">
@@ -1282,11 +1282,11 @@
       <timestamp>2018-05-03T18:58:00Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="6583967" name="50-08B" description="Tramo El Korán (Puerto Salgar) - Guaduas" ref="5008B" unsigned_ref="" osm_element_version="3">
+  <route osm_relation_id="6583967" name="50-08B" description="Tramo El Korán (Puerto Salgar) - Guaduas" ref="5008B" unsigned_ref="" osm_element_version="5">
     <last_changeset>
-      <id>53352233</id>
+      <id>61709488</id>
       <user>carciofo</user>
-      <timestamp>2017-10-29T20:46:57Z</timestamp>
+      <timestamp>2018-08-16T10:06:41Z</timestamp>
     </last_changeset>
     <note>Route is signed/posted "5008B"</note>
   </route>
@@ -1360,18 +1360,18 @@
       <timestamp>2018-07-28T06:17:01Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="7705838" name="55-02" description="Tramo Tunja - Duitama" ref="55" unsigned_ref="" osm_element_version="1">
+  <route osm_relation_id="7705838" name="55-02" description="Tramo Tunja - Duitama" ref="55" unsigned_ref="" osm_element_version="2">
     <last_changeset>
-      <id>53481040</id>
+      <id>61549270</id>
       <user>carciofo</user>
-      <timestamp>2017-11-03T14:47:49Z</timestamp>
+      <timestamp>2018-08-10T19:17:54Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="6056393" name="55-03" description="Tramo Duitama - La Palmera" ref="55" unsigned_ref="" osm_element_version="24">
+  <route osm_relation_id="6056393" name="55-03" description="Tramo Duitama - La Palmera" ref="55" unsigned_ref="" osm_element_version="25">
     <last_changeset>
-      <id>51072364</id>
-      <user>AngocA</user>
-      <timestamp>2017-08-13T05:31:32Z</timestamp>
+      <id>61570419</id>
+      <user>Leonardo Gutierrez</user>
+      <timestamp>2018-08-11T17:19:37Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="6056394" name="55-04" description="Tramo La Palmera - Presidente" ref="55" unsigned_ref="" osm_element_version="4">
@@ -1500,18 +1500,18 @@
       <timestamp>2017-11-03T15:07:42Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4538356" name="60-07" description="Tramo Otanche-Chiquinquirá" ref="60" unsigned_ref="" osm_element_version="10">
+  <route osm_relation_id="4538356" name="60-07" description="Tramo Otanche-Chiquinquirá" ref="60" unsigned_ref="" osm_element_version="11">
     <last_changeset>
-      <id>56953612</id>
-      <user>cris_1994</user>
-      <timestamp>2018-03-07T01:58:56Z</timestamp>
+      <id>61550299</id>
+      <user>carciofo</user>
+      <timestamp>2018-08-10T19:42:36Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4538666" name="60-08" description="Tramo Chiquinquirá-Tunja" ref="60" unsigned_ref="" osm_element_version="5">
+  <route osm_relation_id="4538666" name="60-08" description="Tramo Chiquinquirá-Tunja" ref="60" unsigned_ref="" osm_element_version="6">
     <last_changeset>
-      <id>53481454</id>
+      <id>61549943</id>
       <user>carciofo</user>
-      <timestamp>2017-11-03T15:07:43Z</timestamp>
+      <timestamp>2018-08-10T19:35:22Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4538862" name="60-09" description="Tramo Tunja-Páez" ref="60" unsigned_ref="" osm_element_version="12">
@@ -1528,11 +1528,11 @@
       <timestamp>2018-05-25T21:38:46Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4823208" name="62 BY 05" description="La Ye (Cruce Ruta 62) - Tibasosa - Sogamoso" ref="62 BY 05" unsigned_ref="" osm_element_version="4">
+  <route osm_relation_id="4823208" name="62 BY 05" description="La Ye (Cruce Ruta 62) - Tibasosa - Sogamoso" ref="62 BY 05" unsigned_ref="" osm_element_version="5">
     <last_changeset>
-      <id>53351722</id>
+      <id>61549124</id>
       <user>carciofo</user>
-      <timestamp>2017-10-29T20:16:49Z</timestamp>
+      <timestamp>2018-08-10T19:14:09Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4827211" name="62 ST A" description="Variante de Barbosa" ref="62 ST A" unsigned_ref="" osm_element_version="1">
@@ -1577,11 +1577,11 @@
       <timestamp>2018-07-12T17:17:04Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4826666" name="62-05" description="Tramo Hatillo (Cruce Ruta 25)-Cisneros" ref="62" unsigned_ref="" osm_element_version="13">
+  <route osm_relation_id="4826666" name="62-05" description="Tramo Hatillo (Cruce Ruta 25)-Cisneros" ref="62" unsigned_ref="" osm_element_version="14">
     <last_changeset>
-      <id>59585657</id>
+      <id>61546554</id>
       <user>shepherdator</user>
-      <timestamp>2018-06-06T01:48:27Z</timestamp>
+      <timestamp>2018-08-10T17:37:37Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="7875144" name="62-05A" description="Hatillo - Barbosa (Nuevo tramo - Doble Calzada)" ref="62" unsigned_ref="" osm_element_version="2">
@@ -1612,11 +1612,11 @@
       <timestamp>2018-03-04T18:42:04Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4827214" name="62-09" description="Tramo Barbosa - Tunja" ref="62" unsigned_ref="" osm_element_version="5">
+  <route osm_relation_id="4827214" name="62-09" description="Tramo Barbosa - Tunja" ref="62" unsigned_ref="" osm_element_version="6">
     <last_changeset>
-      <id>56853305</id>
-      <user>cris_1994</user>
-      <timestamp>2018-03-03T18:08:39Z</timestamp>
+      <id>61675366</id>
+      <user>javiersneider</user>
+      <timestamp>2018-08-15T05:02:06Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4823209" name="62-10" description="Cruce Ruta 55 (Duitama) - La Ye" ref="62" unsigned_ref="" osm_element_version="5">
@@ -2097,20 +2097,6 @@
       <timestamp>2018-02-16T01:16:01Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="8001428" name="Duitama-Charalá" description="" ref="" unsigned_ref="" osm_element_version="3">
-    <last_changeset>
-      <id>58532370</id>
-      <user>fredw</user>
-      <timestamp>2018-04-29T16:59:50Z</timestamp>
-    </last_changeset>
-  </route>
-  <route osm_relation_id="8001446" name="Duitama-Charalá-SanGil" description="" ref="" unsigned_ref="" osm_element_version="4">
-    <last_changeset>
-      <id>58918446</id>
-      <user>H_S</user>
-      <timestamp>2018-05-13T08:28:05Z</timestamp>
-    </last_changeset>
-  </route>
   <route osm_relation_id="4751005" name="Ruta Nacional 01" description="Circunvalación Isla de San Andrés" ref="01" unsigned_ref="" osm_element_version="3">
     <last_changeset>
       <id>53128014</id>
@@ -2311,11 +2297,11 @@
       <timestamp>2017-11-03T19:32:30Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="6040159" name="Ruta Nacional 55 (super)" description="" ref="55" unsigned_ref="" osm_element_version="10">
+  <route osm_relation_id="6040159" name="Ruta Nacional 55 (super)" description="" ref="55" unsigned_ref="" osm_element_version="11">
     <last_changeset>
-      <id>60923648</id>
-      <user>CHIBCHAMuisca</user>
-      <timestamp>2018-07-21T05:56:08Z</timestamp>
+      <id>61509563</id>
+      <user>diego go</user>
+      <timestamp>2018-08-09T18:13:58Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4511399" name="Ruta Nacional 56 (super)" description="" ref="56" unsigned_ref="" osm_element_version="9">
