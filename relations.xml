@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55 579b1eec">
+<osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-05-15T10:32:01Z"/>
+<meta osm_base="2018-08-08T12:07:02Z"/>
 
   <relation id="1084111" version="12" timestamp="2018-03-31T02:29:47Z" changeset="57678039" uid="771082" user="paul sayed">
     <member type="way" ref="76589647" role=""/>
@@ -165,9 +165,16 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4536392" version="17" timestamp="2018-03-22T04:00:31Z" changeset="57407964" uid="7445887" user="LSkalayo">
+  <relation id="4536392" version="19" timestamp="2018-07-19T12:43:53Z" changeset="60870817" uid="2533093" user="carciofo">
     <member type="way" ref="570015358" role="forward"/>
     <member type="way" ref="570298096" role="forward"/>
+    <member type="way" ref="609216103" role="forward"/>
+    <member type="way" ref="607299532" role="forward"/>
+    <member type="way" ref="609216101" role="forward"/>
+    <member type="way" ref="609216100" role="forward"/>
+    <member type="way" ref="607299531" role="forward"/>
+    <member type="way" ref="607299537" role="forward"/>
+    <member type="way" ref="607299536" role="forward"/>
     <member type="way" ref="36806137" role="forward"/>
     <member type="way" ref="440691384" role="forward"/>
     <member type="way" ref="440691383" role="forward"/>
@@ -310,7 +317,12 @@
     <member type="way" ref="554958018" role="forward"/>
     <member type="way" ref="554958014" role="forward"/>
     <member type="way" ref="42920609" role="forward"/>
+    <member type="way" ref="607299527" role="forward"/>
+    <member type="way" ref="607299535" role="forward"/>
+    <member type="way" ref="607299528" role="forward"/>
     <member type="way" ref="36737371" role="forward"/>
+    <member type="way" ref="607299533" role="forward"/>
+    <member type="way" ref="607299534" role="forward"/>
     <member type="way" ref="36806128" role="forward"/>
     <member type="way" ref="430191776" role=""/>
     <member type="way" ref="172558804" role="link"/>
@@ -452,7 +464,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4538293" version="19" timestamp="2018-05-15T08:20:11Z" changeset="58975285" uid="2533093" user="carciofo">
+  <relation id="4538293" version="20" timestamp="2018-06-05T12:59:49Z" changeset="59569148" uid="8376275" user="leyendax">
     <member type="way" ref="446863043" role="forward"/>
     <member type="way" ref="571757859" role="forward"/>
     <member type="way" ref="571757858" role="forward"/>
@@ -480,6 +492,7 @@
     <member type="way" ref="35597560" role="forward"/>
     <member type="way" ref="35597651" role="forward"/>
     <member type="way" ref="547529559" role="forward"/>
+    <member type="way" ref="35381564" role=""/>
     <member type="way" ref="35381374" role="forward"/>
     <member type="way" ref="35597631" role="forward"/>
     <member type="way" ref="571472070" role="forward"/>
@@ -503,7 +516,6 @@
     <member type="way" ref="365359232" role="forward"/>
     <member type="way" ref="367151306" role="forward"/>
     <member type="way" ref="30957391" role="forward"/>
-    <member type="way" ref="35381564" role=""/>
     <member type="way" ref="35381865" role="forward"/>
     <member type="way" ref="35381821" role="forward"/>
     <member type="way" ref="35381849" role=""/>
@@ -570,8 +582,7 @@
     <member type="way" ref="31008655" role="link"/>
     <member type="way" ref="35381405" role="link"/>
     <member type="way" ref="35381339" role="link"/>
-    <member type="way" ref="31009158" role="link"/>
-    <member type="way" ref="325709724" role="link"/>
+    <member type="way" ref="594215266" role="link"/>
     <tag k="description" v="Tramo Medellin-San Diego-La Union-Sonson"/>
     <tag k="distance" v="91.94"/>
     <tag k="name" v="56-01"/>
@@ -856,13 +867,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4552927" version="17" timestamp="2018-01-15T21:35:08Z" changeset="55476192" uid="4494325" user="JLOSM">
-    <member type="way" ref="552256220" role=""/>
-    <member type="way" ref="552256204" role=""/>
-    <member type="way" ref="552256206" role=""/>
-    <member type="way" ref="552256207" role=""/>
-    <member type="way" ref="552256224" role=""/>
-    <member type="way" ref="552256223" role=""/>
+  <relation id="4552927" version="19" timestamp="2018-05-25T21:38:47Z" changeset="59282882" uid="2533093" user="carciofo">
     <member type="way" ref="326106357" role=""/>
     <member type="way" ref="545588930" role=""/>
     <member type="way" ref="507538927" role=""/>
@@ -876,40 +881,52 @@
     <member type="way" ref="28243408" role=""/>
     <member type="way" ref="430078322" role=""/>
     <member type="way" ref="430078324" role=""/>
-    <member type="way" ref="553153169" role=""/>
-    <member type="way" ref="501093102" role=""/>
-    <member type="way" ref="501093103" role=""/>
+    <member type="way" ref="553153219" role="forward"/>
+    <member type="way" ref="553153167" role="forward"/>
+    <member type="way" ref="553153166" role="forward"/>
+    <member type="way" ref="553153169" role="forward"/>
+    <member type="way" ref="501093102" role="forward"/>
+    <member type="way" ref="501093103" role="forward"/>
+    <member type="way" ref="49578786" role="forward"/>
     <member type="way" ref="553153168" role=""/>
-    <member type="way" ref="553153166" role=""/>
-    <member type="way" ref="553153167" role=""/>
-    <member type="way" ref="553153219" role=""/>
-    <member type="way" ref="49578786" role=""/>
-    <member type="way" ref="430078323" role=""/>
-    <member type="way" ref="553153165" role=""/>
     <member type="way" ref="553153164" role=""/>
+    <member type="way" ref="553153165" role=""/>
+    <member type="way" ref="430078323" role=""/>
     <member type="way" ref="453192107" role=""/>
     <member type="way" ref="173482102" role=""/>
     <member type="way" ref="465652602" role=""/>
-    <member type="way" ref="453419550" role="forward"/>
     <member type="way" ref="454574701" role="forward"/>
-    <member type="way" ref="492472654" role=""/>
+    <member type="way" ref="453419550" role="forward"/>
     <member type="way" ref="454574702" role=""/>
+    <member type="way" ref="492472654" role=""/>
     <member type="way" ref="453419551" role=""/>
     <member type="way" ref="492472655" role=""/>
     <member type="way" ref="49578785" role=""/>
     <member type="way" ref="313898537" role=""/>
     <member type="way" ref="313898529" role=""/>
-    <member type="way" ref="552256209" role=""/>
-    <member type="way" ref="552256205" role=""/>
-    <member type="way" ref="552256208" role=""/>
     <member type="way" ref="146014684" role=""/>
+    <member type="way" ref="552256223" role="forward"/>
+    <member type="way" ref="552256208" role="forward"/>
+    <member type="way" ref="552256224" role=""/>
+    <member type="way" ref="552256204" role="forward"/>
+    <member type="way" ref="552256205" role="forward"/>
+    <member type="way" ref="552256209" role=""/>
     <member type="way" ref="146014690" role=""/>
-    <member type="way" ref="492472658" role=""/>
-    <member type="way" ref="553356122" role=""/>
-    <member type="way" ref="553356121" role=""/>
-    <member type="way" ref="492472657" role=""/>
-    <member type="way" ref="552256210" role=""/>
     <member type="way" ref="146013706" role=""/>
+    <member type="way" ref="552256212" role="forward"/>
+    <member type="way" ref="552256210" role="forward"/>
+    <member type="way" ref="552256215" role=""/>
+    <member type="way" ref="492472659" role="forward"/>
+    <member type="way" ref="553356126" role="forward"/>
+    <member type="way" ref="553356123" role="forward"/>
+    <member type="way" ref="492472657" role="forward"/>
+    <member type="way" ref="553356121" role="forward"/>
+    <member type="way" ref="553356122" role="forward"/>
+    <member type="way" ref="492472658" role=""/>
+    <member type="way" ref="466494517" role=""/>
+    <member type="way" ref="552256191" role=""/>
+    <member type="way" ref="553153218" role="link"/>
+    <member type="way" ref="553153217" role="link"/>
     <tag k="description" v="Tramo Turbo-Chigorodó"/>
     <tag k="distance" v="170.5"/>
     <tag k="name" v="62-01"/>
@@ -918,8 +935,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4552928" version="17" timestamp="2018-01-11T10:23:25Z" changeset="55347958" uid="2533093" user="carciofo">
-    <member type="way" ref="552256191" role=""/>
+  <relation id="4552928" version="18" timestamp="2018-05-25T21:27:21Z" changeset="59282672" uid="2533093" user="carciofo">
     <member type="way" ref="326106355" role=""/>
     <member type="way" ref="466494519" role=""/>
     <member type="way" ref="49578784" role=""/>
@@ -1010,7 +1026,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4552929" version="9" timestamp="2018-01-10T19:57:56Z" changeset="55332778" uid="2533093" user="carciofo">
+  <relation id="4552929" version="10" timestamp="2018-05-25T14:27:43Z" changeset="59272945" uid="2533093" user="carciofo">
     <member type="way" ref="492472555" role=""/>
     <member type="way" ref="492472552" role=""/>
     <member type="way" ref="466813423" role=""/>
@@ -1041,6 +1057,8 @@
     <member type="way" ref="493477256" role=""/>
     <member type="way" ref="31564523" role=""/>
     <member type="way" ref="493477255" role=""/>
+    <member type="way" ref="591020532" role=""/>
+    <member type="way" ref="591020531" role=""/>
     <member type="way" ref="493477254" role=""/>
     <member type="way" ref="523088094" role=""/>
     <member type="way" ref="523088093" role=""/>
@@ -1105,7 +1123,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4552931" version="7" timestamp="2018-01-04T15:28:53Z" changeset="55161024" uid="2533093" user="carciofo">
+  <relation id="4552931" version="8" timestamp="2018-05-25T21:38:48Z" changeset="59282882" uid="2533093" user="carciofo">
     <member type="relation" ref="4552927" role=""/>
     <member type="relation" ref="4552928" role=""/>
     <member type="relation" ref="4552929" role=""/>
@@ -1119,6 +1137,7 @@
     <member type="relation" ref="4827214" role=""/>
     <member type="relation" ref="4823209" role=""/>
     <member type="relation" ref="4823210" role=""/>
+    <member type="relation" ref="8328365" role=""/>
     <member type="relation" ref="4823208" role=""/>
     <member type="relation" ref="4827211" role=""/>
     <tag k="name" v="Ruta Nacional 62 (super)"/>
@@ -1367,7 +1386,7 @@
     <tag k="type" v="route"/>
     <tag k="wikipedia" v="es:Ruta Nacional 25 (Colombia)"/>
   </relation>
-  <relation id="4743218" version="22" timestamp="2018-04-08T02:41:38Z" changeset="57904054" uid="927170" user="cris_1994">
+  <relation id="4743218" version="24" timestamp="2018-05-16T20:09:05Z" changeset="59028820" uid="927170" user="cris_1994">
     <member type="way" ref="261936895" role=""/>
     <member type="way" ref="510277001" role=""/>
     <member type="way" ref="510277000" role=""/>
@@ -1413,6 +1432,10 @@
     <member type="way" ref="509676440" role=""/>
     <member type="way" ref="518078331" role=""/>
     <member type="way" ref="577606068" role=""/>
+    <member type="way" ref="588788581" role=""/>
+    <member type="way" ref="588788582" role=""/>
+    <member type="way" ref="588790645" role=""/>
+    <member type="way" ref="577614699" role=""/>
     <tag k="description" v="Tramo Cauyá-La Pintada"/>
     <tag k="name" v="25-08"/>
     <tag k="network" v="co:national"/>
@@ -1469,7 +1492,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4744694" version="16" timestamp="2017-08-23T18:44:29Z" changeset="51383483" uid="927170" user="cris_1994">
+  <relation id="4744694" version="17" timestamp="2018-05-20T03:52:00Z" changeset="59114818" uid="3999351" user="Alvaro Isaza">
     <member type="way" ref="404964206" role=""/>
     <member type="way" ref="404964207" role=""/>
     <member type="way" ref="279478408" role=""/>
@@ -1493,9 +1516,11 @@
     <member type="way" ref="376295622" role=""/>
     <member type="way" ref="507111835" role=""/>
     <member type="way" ref="335549784" role=""/>
-    <member type="way" ref="305799040" role=""/>
-    <member type="way" ref="507631786" role=""/>
     <member type="way" ref="507111810" role=""/>
+    <member type="way" ref="305799040" role=""/>
+    <member type="way" ref="589553234" role=""/>
+    <member type="way" ref="589553233" role=""/>
+    <member type="way" ref="507631786" role=""/>
     <member type="way" ref="507638363" role=""/>
     <member type="way" ref="507641922" role=""/>
     <member type="way" ref="508522129" role=""/>
@@ -1663,8 +1688,10 @@
     <tag k="type" v="route"/>
     <tag k="unsigned_ref" v="56 AN 01"/>
   </relation>
-  <relation id="4749424" version="11" timestamp="2018-03-07T14:37:51Z" changeset="56969819" uid="927170" user="cris_1994">
+  <relation id="4749424" version="12" timestamp="2018-06-26T19:02:40Z" changeset="60192023" uid="436132" user="kaxtillo">
     <member type="way" ref="325784964" role=""/>
+    <member type="way" ref="602226357" role=""/>
+    <member type="way" ref="602226358" role=""/>
     <member type="way" ref="182395646" role=""/>
     <member type="way" ref="325784970" role=""/>
     <member type="way" ref="253792341" role=""/>
@@ -2057,7 +2084,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4752710" version="5" timestamp="2017-11-21T12:51:17Z" changeset="53975105" uid="2533093" user="carciofo">
+  <relation id="4752710" version="6" timestamp="2018-06-06T02:13:09Z" changeset="59585908" uid="5269" user="fredw">
     <member type="way" ref="296788538" role=""/>
     <member type="way" ref="542069335" role="forward"/>
     <member type="way" ref="503110270" role="forward"/>
@@ -2083,6 +2110,8 @@
     <member type="way" ref="296784592" role=""/>
     <member type="way" ref="245902190" role=""/>
     <member type="way" ref="245902189" role=""/>
+    <member type="way" ref="594383173" role=""/>
+    <member type="way" ref="594383183" role=""/>
     <member type="way" ref="29229562" role=""/>
     <member type="way" ref="298885317" role=""/>
     <member type="way" ref="505134349" role=""/>
@@ -2227,7 +2256,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4765173" version="6" timestamp="2017-11-11T20:35:17Z" changeset="53699775" uid="1203657" user="Jan van Bekkum">
+  <relation id="4765173" version="7" timestamp="2018-08-08T06:04:32Z" changeset="61454648" uid="390924" user="euryoekie">
     <member type="way" ref="93534530" role=""/>
     <member type="way" ref="219940299" role=""/>
     <member type="way" ref="219940301" role=""/>
@@ -2237,13 +2266,14 @@
     <member type="way" ref="539691943" role=""/>
     <member type="way" ref="539691940" role=""/>
     <member type="way" ref="169284694" role=""/>
+    <member type="way" ref="169288129" role=""/>
+    <member type="way" ref="615100091" role=""/>
+    <member type="way" ref="169288128" role=""/>
+    <member type="way" ref="169288127" role=""/>
+    <member type="way" ref="169288039" role=""/>
     <member type="way" ref="200883935" role=""/>
     <member type="way" ref="539715298" role=""/>
     <member type="way" ref="539715299" role=""/>
-    <member type="way" ref="169288039" role=""/>
-    <member type="way" ref="169288127" role=""/>
-    <member type="way" ref="169288128" role=""/>
-    <member type="way" ref="169288129" role=""/>
     <member type="way" ref="200883894" role=""/>
     <member type="way" ref="539906431" role=""/>
     <member type="way" ref="539906423" role=""/>
@@ -2501,7 +2531,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4771045" version="5" timestamp="2017-11-03T15:29:17Z" changeset="53482009" uid="2533093" user="carciofo">
+  <relation id="4771045" version="6" timestamp="2018-07-27T16:34:31Z" changeset="61125065" uid="8568739" user="afesant">
     <member type="way" ref="200857720" role="forward"/>
     <member type="way" ref="304980260" role="forward"/>
     <member type="way" ref="337390355" role="forward"/>
@@ -2509,6 +2539,7 @@
     <member type="way" ref="200857738" role="forward"/>
     <member type="way" ref="323857751" role="forward"/>
     <member type="way" ref="337390352" role="forward"/>
+    <member type="way" ref="611624584" role="forward"/>
     <member type="way" ref="337390353" role="forward"/>
     <member type="way" ref="111871190" role="forward"/>
     <member type="way" ref="402207480" role=""/>
@@ -2623,7 +2654,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4823210" version="7" timestamp="2018-04-06T00:26:22Z" changeset="57850445" uid="5269" user="fredw">
+  <relation id="4823210" version="8" timestamp="2018-06-16T19:32:28Z" changeset="59900967" uid="510843" user="javiersneider">
     <member type="way" ref="87390123" role="forward"/>
     <member type="way" ref="87391803" role="backward"/>
     <member type="way" ref="87389531" role=""/>
@@ -2644,10 +2675,11 @@
     <member type="way" ref="242305037" role=""/>
     <member type="way" ref="254735599" role=""/>
     <member type="way" ref="254735600" role=""/>
+    <member type="way" ref="598398313" role=""/>
     <member type="way" ref="506131896" role=""/>
+    <member type="way" ref="563727402" role=""/>
     <member type="way" ref="506131897" role=""/>
     <member type="way" ref="371922709" role=""/>
-    <member type="way" ref="563727402" role=""/>
     <member type="way" ref="563727400" role=""/>
     <tag k="description" v="Tramo Sogamoso-Aguazul"/>
     <tag k="name" v="62-11"/>
@@ -2656,7 +2688,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="4826666" version="11" timestamp="2018-02-20T19:14:48Z" changeset="56530235" uid="4494325" user="JLOSM">
+  <relation id="4826666" version="13" timestamp="2018-06-06T01:48:27Z" changeset="59585657" uid="2414496" user="shepherdator">
     <member type="way" ref="208360733" role="forward"/>
     <member type="way" ref="340209608" role="forward"/>
     <member type="way" ref="533073179" role=""/>
@@ -2673,6 +2705,10 @@
     <member type="way" ref="315181703" role="forward"/>
     <member type="way" ref="340209607" role="forward"/>
     <member type="way" ref="340209606" role=""/>
+    <member type="way" ref="590585684" role=""/>
+    <member type="way" ref="590585683" role=""/>
+    <member type="way" ref="594380351" role=""/>
+    <member type="way" ref="594380352" role=""/>
     <member type="way" ref="128605846" role=""/>
     <member type="way" ref="125907931" role="forward"/>
     <member type="way" ref="125907928" role="forward"/>
@@ -3758,7 +3794,7 @@
     <tag k="symbol" v="http://upload.wikimedia.org/wikipedia/commons/8/87/Rutacol-37.svg"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5128404" version="11" timestamp="2018-04-06T00:18:50Z" changeset="57850387" uid="927170" user="cris_1994">
+  <relation id="5128404" version="12" timestamp="2018-06-12T02:00:02Z" changeset="59757946" uid="927170" user="cris_1994">
     <member type="way" ref="509288436" role="link"/>
     <member type="way" ref="509288461" role="link"/>
     <member type="way" ref="509288454" role="link"/>
@@ -3797,6 +3833,7 @@
     <member type="way" ref="576097993" role=""/>
     <member type="way" ref="576097996" role=""/>
     <member type="way" ref="576919103" role=""/>
+    <member type="way" ref="596692411" role=""/>
     <tag k="description" v="Variante de Tuluá"/>
     <tag k="distance" v="6.98"/>
     <tag k="name" v="25 VL E"/>
@@ -5329,7 +5366,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5225376" version="3" timestamp="2017-11-20T18:01:34Z" changeset="53956361" uid="2533093" user="carciofo">
+  <relation id="5225376" version="6" timestamp="2018-06-17T14:44:18Z" changeset="59916564" uid="1760513" user="jesus2784">
     <member type="way" ref="27105106" role="link"/>
     <member type="way" ref="27105118" role=""/>
     <member type="way" ref="350331933" role=""/>
@@ -5349,6 +5386,7 @@
     <member type="way" ref="511120750" role=""/>
     <member type="way" ref="256107293" role=""/>
     <member type="way" ref="256107278" role=""/>
+    <member type="way" ref="598535697" role=""/>
     <member type="way" ref="511120734" role=""/>
     <member type="way" ref="511120738" role=""/>
     <member type="way" ref="511120731" role=""/>
@@ -5356,13 +5394,17 @@
     <member type="way" ref="511120735" role=""/>
     <member type="way" ref="511120736" role=""/>
     <member type="way" ref="511120730" role=""/>
+    <member type="way" ref="598553004" role=""/>
+    <member type="way" ref="598553003" role=""/>
     <member type="way" ref="511120733" role=""/>
     <member type="way" ref="511120737" role=""/>
     <member type="way" ref="511120742" role=""/>
     <member type="way" ref="511120743" role=""/>
+    <member type="way" ref="598546688" role=""/>
+    <member type="way" ref="598546687" role=""/>
     <member type="way" ref="511120746" role=""/>
     <member type="way" ref="511120747" role=""/>
-    <member type="way" ref="511120748" role=""/>
+    <member type="way" ref="511120741" role=""/>
     <tag k="description" v="Tramo Altamira-Gabinete-Florencia"/>
     <tag k="distance" v="73.42"/>
     <tag k="name" v="20-03"/>
@@ -5372,25 +5414,41 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5225377" version="4" timestamp="2017-07-28T17:21:30Z" changeset="50654624" uid="2533093" user="carciofo">
+  <relation id="5225377" version="13" timestamp="2018-06-14T21:48:03Z" changeset="59860446" uid="1760513" user="jesus2784">
     <member type="way" ref="255971026" role=""/>
     <member type="way" ref="42304340" role=""/>
     <member type="way" ref="255971023" role=""/>
     <member type="way" ref="42303982" role=""/>
     <member type="way" ref="42303987" role=""/>
     <member type="way" ref="54036844" role=""/>
+    <member type="way" ref="597839255" role=""/>
+    <member type="way" ref="597839254" role=""/>
     <member type="way" ref="288560190" role=""/>
     <member type="way" ref="288560185" role=""/>
+    <member type="way" ref="597840189" role=""/>
+    <member type="way" ref="597840188" role=""/>
+    <member type="way" ref="593092495" role=""/>
     <member type="way" ref="209206770" role=""/>
     <member type="way" ref="209206765" role=""/>
     <member type="way" ref="288560191" role=""/>
     <member type="way" ref="288560188" role=""/>
     <member type="way" ref="288560189" role=""/>
     <member type="way" ref="288560187" role=""/>
+    <member type="way" ref="597842805" role=""/>
+    <member type="way" ref="597842784" role=""/>
+    <member type="way" ref="597919726" role=""/>
+    <member type="way" ref="597919727" role=""/>
+    <member type="way" ref="597921060" role=""/>
+    <member type="way" ref="597921061" role=""/>
+    <member type="way" ref="597921346" role=""/>
+    <member type="way" ref="597921347" role=""/>
+    <member type="way" ref="597507834" role=""/>
+    <member type="way" ref="597507835" role=""/>
     <member type="way" ref="42304316" role=""/>
     <member type="way" ref="511120745" role=""/>
     <member type="way" ref="511120744" role=""/>
     <member type="way" ref="43101998" role=""/>
+    <member type="way" ref="593081961" role=""/>
     <member type="way" ref="511117111" role="forward"/>
     <member type="way" ref="511117108" role="forward"/>
     <tag k="description" v="Tramo Orrapihuasi-Depresión El Vergel-Florencia"/>
@@ -5440,7 +5498,7 @@
     <tag k="type" v="route"/>
     <tag k="unsigned_ref" v="24 HL 03"/>
   </relation>
-  <relation id="5231885" version="6" timestamp="2017-10-09T15:35:25Z" changeset="52763642" uid="436132" user="kaxtillo">
+  <relation id="5231885" version="7" timestamp="2018-08-04T00:06:03Z" changeset="61344083" uid="436132" user="kaxtillo">
     <member type="way" ref="350793119" role=""/>
     <member type="way" ref="467996901" role=""/>
     <member type="way" ref="471123488" role=""/>
@@ -5449,6 +5507,10 @@
     <member type="way" ref="429795414" role=""/>
     <member type="way" ref="429795413" role=""/>
     <member type="way" ref="43114619" role=""/>
+    <member type="way" ref="43113463" role=""/>
+    <member type="way" ref="613958415" role=""/>
+    <member type="way" ref="613958414" role=""/>
+    <member type="way" ref="350786581" role=""/>
     <member type="way" ref="471123486" role=""/>
     <member type="way" ref="471123480" role=""/>
     <member type="way" ref="471123474" role=""/>
@@ -5461,8 +5523,6 @@
     <member type="way" ref="467996895" role=""/>
     <member type="way" ref="467996898" role=""/>
     <member type="way" ref="467996899" role=""/>
-    <member type="way" ref="43113463" role=""/>
-    <member type="way" ref="350786581" role=""/>
     <tag k="description" v="Tramo Patco-Candelaria"/>
     <tag k="distance" v="73.71"/>
     <tag k="name" v="24-01"/>
@@ -5472,8 +5532,13 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5231886" version="4" timestamp="2015-07-10T23:46:04Z" changeset="32555813" uid="3051941" user="JULIAN ANDRES MEDINA SANTACRUZ">
+  <relation id="5231886" version="6" timestamp="2018-08-06T12:20:50Z" changeset="61402462" uid="390924" user="euryoekie">
     <member type="way" ref="41764538" role=""/>
+    <member type="way" ref="614468942" role=""/>
+    <member type="way" ref="614470039" role=""/>
+    <member type="way" ref="614470038" role=""/>
+    <member type="way" ref="614470041" role=""/>
+    <member type="way" ref="614470040" role=""/>
     <member type="way" ref="41764534" role=""/>
     <member type="way" ref="350793120" role=""/>
     <member type="way" ref="359888891" role=""/>
@@ -5828,7 +5893,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5255618" version="30" timestamp="2018-03-28T04:04:32Z" changeset="57586447" uid="7445887" user="LSkalayo">
+  <relation id="5255618" version="31" timestamp="2018-07-13T10:43:06Z" changeset="60683776" uid="2533093" user="carciofo">
     <member type="way" ref="448038011" role="forward"/>
     <member type="way" ref="444286144" role="forward"/>
     <member type="way" ref="315155168" role="forward"/>
@@ -5847,7 +5912,6 @@
     <member type="way" ref="573773943" role="forward"/>
     <member type="way" ref="573773934" role="forward"/>
     <member type="way" ref="573773927" role="forward"/>
-    <member type="way" ref="573773911" role="forward"/>
     <member type="way" ref="573773907" role="forward"/>
     <member type="way" ref="573773895" role="forward"/>
     <member type="way" ref="573773891" role="forward"/>
@@ -5855,6 +5919,7 @@
     <member type="way" ref="573773877" role="forward"/>
     <member type="way" ref="573773879" role="forward"/>
     <member type="way" ref="573773876" role="forward"/>
+    <member type="way" ref="607667586" role="forward"/>
     <member type="way" ref="450624036" role="forward"/>
     <member type="way" ref="573797708" role="forward"/>
     <member type="way" ref="573797709" role="forward"/>
@@ -5883,10 +5948,18 @@
     <member type="way" ref="573797704" role="forward"/>
     <member type="way" ref="573797705" role="forward"/>
     <member type="way" ref="573797706" role="forward"/>
-    <member type="way" ref="573797707" role="forward"/>
-    <member type="way" ref="573773884" role="forward"/>
     <member type="way" ref="573773888" role="forward"/>
+    <member type="way" ref="607667587" role="forward"/>
+    <member type="way" ref="607667588" role="forward"/>
     <member type="way" ref="573773899" role="forward"/>
+    <member type="way" ref="607667620" role="forward"/>
+    <member type="way" ref="607667602" role="forward"/>
+    <member type="way" ref="607667601" role="forward"/>
+    <member type="way" ref="607667618" role="forward"/>
+    <member type="way" ref="607667619" role="forward"/>
+    <member type="way" ref="607667614" role="forward"/>
+    <member type="way" ref="607667613" role="forward"/>
+    <member type="way" ref="607667600" role="forward"/>
     <member type="way" ref="573773902" role="forward"/>
     <member type="way" ref="315149674" role=""/>
     <member type="way" ref="30509704" role="forward"/>
@@ -5967,7 +6040,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5255619" version="10" timestamp="2017-10-27T04:18:42Z" changeset="53279896" uid="4494325" user="JLOSM">
+  <relation id="5255619" version="14" timestamp="2018-06-04T14:17:34Z" changeset="59539580" uid="2898171" user="GeoFrizz">
     <member type="way" ref="382915676" role=""/>
     <member type="way" ref="454727634" role=""/>
     <member type="way" ref="454727630" role=""/>
@@ -6028,6 +6101,8 @@
     <member type="way" ref="535885962" role=""/>
     <member type="way" ref="535885963" role=""/>
     <member type="way" ref="320543936" role=""/>
+    <member type="way" ref="590600589" role=""/>
+    <member type="way" ref="590600588" role=""/>
     <member type="way" ref="523533756" role=""/>
     <member type="way" ref="523533757" role=""/>
     <member type="way" ref="523533753" role=""/>
@@ -6041,13 +6116,19 @@
     <member type="way" ref="523533740" role=""/>
     <member type="way" ref="523533741" role=""/>
     <member type="way" ref="26091508" role=""/>
+    <member type="way" ref="590767849" role=""/>
+    <member type="way" ref="590767846" role=""/>
     <member type="way" ref="113329794" role=""/>
     <member type="way" ref="484646539" role=""/>
     <member type="way" ref="484646538" role=""/>
     <member type="way" ref="484646540" role=""/>
     <member type="way" ref="485046558" role=""/>
+    <member type="way" ref="593812049" role=""/>
+    <member type="way" ref="593812048" role=""/>
     <member type="way" ref="485046557" role=""/>
     <member type="way" ref="485046552" role=""/>
+    <member type="way" ref="592460982" role=""/>
+    <member type="way" ref="592460983" role=""/>
     <member type="way" ref="485046551" role=""/>
     <member type="way" ref="113329806" role=""/>
     <member type="way" ref="523533732" role=""/>
@@ -6067,16 +6148,24 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5255620" version="10" timestamp="2017-10-21T12:30:22Z" changeset="53126972" uid="2533093" user="carciofo">
+  <relation id="5255620" version="14" timestamp="2018-06-05T14:47:52Z" changeset="59572179" uid="2898171" user="GeoFrizz">
     <member type="way" ref="525271915" role=""/>
     <member type="way" ref="525271916" role=""/>
+    <member type="way" ref="590254511" role=""/>
+    <member type="way" ref="590254510" role=""/>
+    <member type="way" ref="594259607" role=""/>
+    <member type="way" ref="594259606" role=""/>
     <member type="way" ref="26091080" role=""/>
     <member type="way" ref="484390192" role=""/>
     <member type="way" ref="484390193" role=""/>
     <member type="way" ref="525272046" role=""/>
     <member type="way" ref="525272047" role=""/>
+    <member type="way" ref="590392015" role=""/>
+    <member type="way" ref="590392012" role=""/>
     <member type="way" ref="30349766" role=""/>
     <member type="way" ref="484305842" role=""/>
+    <member type="way" ref="590459592" role=""/>
+    <member type="way" ref="590459593" role=""/>
     <member type="way" ref="30349765" role=""/>
     <member type="way" ref="26091044" role=""/>
     <member type="way" ref="382890348" role=""/>
@@ -6592,7 +6681,7 @@
     <tag k="symbol" v="https://upload.wikimedia.org/wikipedia/commons/8/82/Rutacol-29.svg"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5380726" version="4" timestamp="2018-01-11T13:53:03Z" changeset="55352773" uid="5139122" user="DC2017">
+  <relation id="5380726" version="6" timestamp="2018-07-20T22:28:30Z" changeset="60920441" uid="402624" user="bdiscoe">
     <member type="way" ref="361434517" role="backward"/>
     <member type="way" ref="262096092" role="forward"/>
     <member type="way" ref="213899007" role="forward"/>
@@ -6607,18 +6696,52 @@
     <member type="way" ref="336982306" role="backward"/>
     <member type="way" ref="258226118" role="link"/>
     <member type="way" ref="258226119" role="link"/>
+    <member type="way" ref="609616158" role=""/>
+    <member type="way" ref="609616157" role=""/>
+    <member type="way" ref="609616245" role=""/>
+    <member type="way" ref="609616240" role=""/>
+    <member type="way" ref="609616172" role=""/>
+    <member type="way" ref="609616171" role=""/>
+    <member type="way" ref="609616167" role=""/>
+    <member type="way" ref="609616166" role=""/>
     <member type="way" ref="159114534" role=""/>
+    <member type="way" ref="609616164" role=""/>
     <member type="way" ref="159114529" role=""/>
     <member type="way" ref="159114528" role=""/>
+    <member type="way" ref="609616160" role=""/>
+    <member type="way" ref="609616175" role=""/>
+    <member type="way" ref="609616176" role=""/>
     <member type="way" ref="361437718" role=""/>
+    <member type="way" ref="609616161" role=""/>
+    <member type="way" ref="609616177" role=""/>
+    <member type="way" ref="609616178" role=""/>
+    <member type="way" ref="609616179" role=""/>
+    <member type="way" ref="609616180" role=""/>
+    <member type="way" ref="609616184" role=""/>
+    <member type="way" ref="609616183" role=""/>
+    <member type="way" ref="609616182" role=""/>
     <member type="way" ref="217469894" role=""/>
     <member type="way" ref="182900005" role=""/>
     <member type="way" ref="182900003" role=""/>
+    <member type="way" ref="609616185" role=""/>
+    <member type="way" ref="609616186" role=""/>
+    <member type="way" ref="609616189" role=""/>
+    <member type="way" ref="609616187" role=""/>
+    <member type="way" ref="609616188" role=""/>
+    <member type="way" ref="609616190" role=""/>
+    <member type="way" ref="609610406" role=""/>
+    <member type="way" ref="609610407" role=""/>
     <member type="way" ref="182900006" role=""/>
     <member type="way" ref="28175466" role=""/>
     <member type="way" ref="62073425" role=""/>
     <member type="way" ref="62073422" role=""/>
+    <member type="way" ref="609610403" role=""/>
+    <member type="way" ref="609610404" role=""/>
     <member type="way" ref="300399871" role=""/>
+    <member type="way" ref="609610408" role=""/>
+    <member type="way" ref="609610409" role=""/>
+    <member type="way" ref="609610410" role=""/>
+    <member type="way" ref="609610411" role=""/>
     <member type="way" ref="300399869" role=""/>
     <member type="way" ref="39365991" role="forward"/>
     <member type="way" ref="361437719" role="backward"/>
@@ -6699,7 +6822,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5505826" version="6" timestamp="2016-09-09T16:19:11Z" changeset="42034703" uid="436132" user="kaxtillo">
+  <relation id="5505826" version="7" timestamp="2018-06-18T02:23:05Z" changeset="59927234" uid="1760513" user="jesus2784">
     <member type="way" ref="361495277" role=""/>
     <member type="way" ref="406541991" role=""/>
     <member type="way" ref="406541988" role=""/>
@@ -6734,6 +6857,7 @@
     <member type="way" ref="219964939" role=""/>
     <member type="way" ref="219964938" role=""/>
     <member type="way" ref="52095892" role=""/>
+    <member type="way" ref="598676177" role=""/>
     <member type="way" ref="219964969" role=""/>
     <member type="way" ref="219964980" role=""/>
     <member type="way" ref="219964971" role=""/>
@@ -6787,9 +6911,13 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5505827" version="1" timestamp="2015-09-14T16:54:46Z" changeset="34024484" uid="2533093" user="carciofo">
+  <relation id="5505827" version="3" timestamp="2018-06-19T23:19:51Z" changeset="59993156" uid="1760513" user="jesus2784">
     <member type="way" ref="323895005" role=""/>
     <member type="way" ref="323895006" role=""/>
+    <member type="way" ref="599481614" role=""/>
+    <member type="way" ref="599481613" role=""/>
+    <member type="way" ref="599481616" role=""/>
+    <member type="way" ref="599481615" role=""/>
     <member type="way" ref="219942058" role=""/>
     <member type="way" ref="219942062" role=""/>
     <member type="way" ref="219942056" role=""/>
@@ -6802,6 +6930,8 @@
     <member type="way" ref="214443720" role=""/>
     <member type="way" ref="214443719" role=""/>
     <member type="way" ref="214443721" role=""/>
+    <member type="way" ref="593124429" role=""/>
+    <member type="way" ref="593124428" role=""/>
     <tag k="description" v="Tramo San José del Fragua-Florencia"/>
     <tag k="distance" v="58.46"/>
     <tag k="name" v="65-02"/>
@@ -7063,7 +7193,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5512187" version="5" timestamp="2018-04-06T00:26:22Z" changeset="57850445" uid="5269" user="fredw">
+  <relation id="5512187" version="7" timestamp="2018-06-08T21:21:48Z" changeset="59679371" uid="1760513" user="jesus2784">
     <member type="way" ref="50331360" role=""/>
     <member type="way" ref="50730000" role=""/>
     <member type="way" ref="43315813" role=""/>
@@ -7089,10 +7219,16 @@
     <member type="way" ref="530280201" role=""/>
     <member type="way" ref="530280200" role=""/>
     <member type="way" ref="114729558" role=""/>
+    <member type="way" ref="595637479" role=""/>
+    <member type="way" ref="595637478" role=""/>
     <member type="way" ref="37609095" role=""/>
     <member type="way" ref="576919252" role=""/>
     <member type="way" ref="576919253" role=""/>
     <member type="way" ref="183171320" role=""/>
+    <member type="way" ref="589323310" role=""/>
+    <member type="way" ref="589323308" role=""/>
+    <member type="way" ref="589323309" role=""/>
+    <member type="way" ref="589323311" role=""/>
     <member type="way" ref="171976456" role=""/>
     <member type="way" ref="171976454" role=""/>
     <member type="way" ref="171976463" role=""/>
@@ -7124,7 +7260,7 @@
     <tag k="type" v="route"/>
     <tag k="unsigned_ref" v="65 MT E"/>
   </relation>
-  <relation id="5512189" version="3" timestamp="2018-01-15T16:12:58Z" changeset="55467374" uid="7418087" user="Jeff Prieto">
+  <relation id="5512189" version="4" timestamp="2018-06-19T00:03:51Z" changeset="59960375" uid="5269" user="fredw">
     <member type="way" ref="371193115" role=""/>
     <member type="way" ref="28224075" role=""/>
     <member type="way" ref="204338715" role=""/>
@@ -7142,8 +7278,16 @@
     <member type="way" ref="392823261" role=""/>
     <member type="way" ref="392823262" role=""/>
     <member type="way" ref="225171033" role=""/>
-    <member type="way" ref="371250572" role=""/>
+    <member type="way" ref="599079183" role=""/>
+    <member type="way" ref="599079182" role=""/>
+    <member type="way" ref="599079189" role=""/>
+    <member type="way" ref="599079188" role=""/>
+    <member type="way" ref="292621021" role=""/>
     <member type="way" ref="553295929" role=""/>
+    <member type="way" ref="599079183" role=""/>
+    <member type="way" ref="599079182" role=""/>
+    <member type="way" ref="599079189" role=""/>
+    <member type="way" ref="599079188" role=""/>
     <member type="way" ref="292621021" role=""/>
     <member type="way" ref="98169127" role=""/>
     <tag k="description" v="Tramo Ye de Granada-Villavicencio"/>
@@ -7155,7 +7299,9 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5512190" version="4" timestamp="2018-04-02T18:23:28Z" changeset="57748114" uid="5269" user="fredw">
+  <relation id="5512190" version="5" timestamp="2018-06-05T18:37:06Z" changeset="59578213" uid="3265371" user="Andrew Matheny">
+    <member type="way" ref="594316411" role=""/>
+    <member type="way" ref="594316410" role=""/>
     <member type="way" ref="98168743" role=""/>
     <member type="way" ref="167029759" role=""/>
     <member type="way" ref="167029757" role=""/>
@@ -7176,6 +7322,7 @@
     <member type="way" ref="575653443" role=""/>
     <member type="way" ref="575653447" role=""/>
     <member type="way" ref="575653446" role=""/>
+    <member type="way" ref="594316409" role=""/>
     <member type="way" ref="215248900" role=""/>
     <member type="way" ref="215248899" role=""/>
     <member type="way" ref="215248871" role=""/>
@@ -7383,8 +7530,9 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5532624" version="1" timestamp="2015-09-24T16:35:06Z" changeset="34229408" uid="2533093" user="carciofo">
+  <relation id="5532624" version="2" timestamp="2018-07-15T07:57:44Z" changeset="60726745" uid="8506147" user="Johnatan Prada Puello">
     <member type="way" ref="111664186" role=""/>
+    <member type="way" ref="608028594" role=""/>
     <tag k="description" v="Variante de Natagaima"/>
     <tag k="distance" v="3.3"/>
     <tag k="name" v="45 TL E"/>
@@ -7394,12 +7542,23 @@
     <tag k="type" v="route"/>
     <tag k="unsigned_ref" v="45 TL E"/>
   </relation>
-  <relation id="5532625" version="3" timestamp="2017-11-03T15:03:22Z" changeset="53481359" uid="2533093" user="carciofo">
+  <relation id="5532625" version="6" timestamp="2018-07-20T17:35:09Z" changeset="60914431" uid="402624" user="bdiscoe">
     <member type="way" ref="526587668" role=""/>
-    <member type="way" ref="526587667" role=""/>
-    <member type="way" ref="111664191" role=""/>
+    <member type="way" ref="608040006" role=""/>
+    <member type="way" ref="608040039" role=""/>
+    <member type="way" ref="608028613" role=""/>
+    <member type="way" ref="608040018" role=""/>
+    <member type="way" ref="608040032" role=""/>
     <member type="way" ref="111664183" role=""/>
     <member type="way" ref="372222067" role=""/>
+    <member type="way" ref="526587667" role=""/>
+    <member type="way" ref="609570437" role=""/>
+    <member type="way" ref="609570436" role=""/>
+    <member type="way" ref="609570453" role=""/>
+    <member type="way" ref="609570452" role=""/>
+    <member type="way" ref="609570441" role=""/>
+    <member type="way" ref="609570440" role=""/>
+    <member type="way" ref="111664191" role=""/>
     <member type="way" ref="207324501" role=""/>
     <tag k="description" v="Tramo Neiva-Castilla"/>
     <tag k="distance" v="104.3"/>
@@ -7771,7 +7930,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5535469" version="78" timestamp="2018-05-11T18:56:39Z" changeset="58886600" uid="927170" user="cris_1994">
+  <relation id="5535469" version="94" timestamp="2018-06-19T23:26:27Z" changeset="59993269" uid="606974" user="Ivan Arenas">
     <member type="way" ref="85301715" role="forward"/>
     <member type="way" ref="75272545" role="forward"/>
     <member type="way" ref="75272556" role="forward"/>
@@ -7819,11 +7978,16 @@
     <member type="way" ref="500220060" role="forward"/>
     <member type="way" ref="500220061" role="forward"/>
     <member type="way" ref="462158023" role="forward"/>
+    <member type="way" ref="596696552" role="forward"/>
     <member type="way" ref="517933359" role="forward"/>
     <member type="way" ref="517933361" role="forward"/>
     <member type="way" ref="462158020" role="forward"/>
+    <member type="way" ref="599083334" role="forward"/>
+    <member type="way" ref="599083333" role="forward"/>
     <member type="way" ref="499664149" role="forward"/>
     <member type="way" ref="102214797" role="forward"/>
+    <member type="way" ref="596698077" role="forward"/>
+    <member type="way" ref="596698078" role="forward"/>
     <member type="way" ref="462119067" role="forward"/>
     <member type="way" ref="462119070" role="forward"/>
     <member type="way" ref="462123383" role="forward"/>
@@ -7835,13 +7999,18 @@
     <member type="way" ref="500220063" role="forward"/>
     <member type="way" ref="500220062" role="forward"/>
     <member type="way" ref="462158032" role="forward"/>
-    <member type="way" ref="462158024" role="forward"/>
-    <member type="way" ref="517933365" role="forward"/>
+    <member type="way" ref="596695687" role="forward"/>
     <member type="way" ref="517933367" role="forward"/>
+    <member type="way" ref="599083331" role="forward"/>
+    <member type="way" ref="599083332" role="forward"/>
     <member type="way" ref="499664150" role="forward"/>
     <member type="way" ref="499664148" role="forward"/>
+    <member type="way" ref="596698080" role="forward"/>
+    <member type="way" ref="596698079" role="forward"/>
     <member type="way" ref="499665051" role="forward"/>
-    <member type="way" ref="499665052" role=""/>
+    <member type="way" ref="596698081" role=""/>
+    <member type="way" ref="599082806" role="forward"/>
+    <member type="way" ref="599082814" role="forward"/>
     <member type="way" ref="436798882" role="forward"/>
     <member type="way" ref="102214761" role="forward"/>
     <member type="way" ref="102214827" role="forward"/>
@@ -7871,6 +8040,7 @@
     <member type="way" ref="499693463" role="forward"/>
     <member type="way" ref="499693462" role="forward"/>
     <member type="way" ref="499693467" role="forward"/>
+    <member type="way" ref="599082809" role="forward"/>
     <member type="way" ref="499678506" role="forward"/>
     <member type="way" ref="499678511" role="forward"/>
     <member type="way" ref="499678508" role="forward"/>
@@ -7893,16 +8063,25 @@
     <member type="way" ref="499682771" role="forward"/>
     <member type="way" ref="499682763" role="forward"/>
     <member type="way" ref="502228166" role=""/>
+    <member type="way" ref="599082807" role=""/>
+    <member type="way" ref="599082808" role=""/>
     <member type="way" ref="502228872" role=""/>
     <member type="way" ref="502234557" role=""/>
     <member type="way" ref="502238288" role="forward"/>
     <member type="way" ref="347406322" role="forward"/>
     <member type="way" ref="360083901" role="forward"/>
     <member type="way" ref="275391900" role="forward"/>
+    <member type="way" ref="599472172" role="forward"/>
+    <member type="way" ref="599471232" role="forward"/>
+    <member type="way" ref="599470625" role="forward"/>
+    <member type="way" ref="599470626" role="forward"/>
     <member type="way" ref="275386937" role="forward"/>
+    <member type="way" ref="599481974" role="forward"/>
+    <member type="way" ref="599481973" role="forward"/>
     <member type="way" ref="425442957" role="forward"/>
     <member type="way" ref="502238289" role="forward"/>
     <member type="way" ref="347406323" role="forward"/>
+    <member type="way" ref="599471233" role="forward"/>
     <member type="way" ref="421888701" role="forward"/>
     <member type="way" ref="242882968" role="forward"/>
     <member type="way" ref="502512500" role="forward"/>
@@ -7911,8 +8090,6 @@
     <member type="way" ref="275392345" role="forward"/>
     <member type="way" ref="275392347" role="forward"/>
     <member type="way" ref="230880690" role="forward"/>
-    <member type="way" ref="502513259" role="forward"/>
-    <member type="way" ref="502515959" role="forward"/>
     <member type="way" ref="425442955" role="forward"/>
     <member type="way" ref="182702269" role="forward"/>
     <member type="way" ref="29230305" role=""/>
@@ -7958,9 +8135,6 @@
     <member type="way" ref="275391317" role="link"/>
     <member type="way" ref="358947415" role="link"/>
     <member type="way" ref="502514851" role="link"/>
-    <member type="way" ref="421889543" role="link"/>
-    <member type="way" ref="275394062" role="link"/>
-    <member type="way" ref="275394061" role="link"/>
     <member type="way" ref="516218666" role=""/>
     <member type="way" ref="234586929" role=""/>
     <member type="way" ref="587042616" role=""/>
@@ -8180,7 +8354,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5536630" version="4" timestamp="2017-08-23T17:55:44Z" changeset="51383314" uid="927170" user="cris_1994">
+  <relation id="5536630" version="5" timestamp="2018-07-19T13:25:33Z" changeset="60872420" uid="3938552" user="CamiloBermúdez">
     <member type="way" ref="237883895" role=""/>
     <member type="way" ref="277179063" role="forward"/>
     <member type="way" ref="277179062" role="backward"/>
@@ -8194,6 +8368,8 @@
     <member type="way" ref="297297385" role=""/>
     <member type="way" ref="297457609" role=""/>
     <member type="way" ref="297457608" role=""/>
+    <member type="way" ref="609225885" role=""/>
+    <member type="way" ref="609225876" role=""/>
     <member type="way" ref="30327598" role=""/>
     <member type="way" ref="237884540" role="forward"/>
     <member type="way" ref="237884534" role="backward"/>
@@ -8207,18 +8383,17 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5536631" version="31" timestamp="2018-02-10T14:17:14Z" changeset="56241683" uid="927170" user="cris_1994">
+  <relation id="5536631" version="34" timestamp="2018-08-03T14:55:07Z" changeset="61333288" uid="3938552" user="CamiloBermúdez">
     <member type="way" ref="30654659" role="forward"/>
     <member type="way" ref="237884535" role=""/>
+    <member type="way" ref="528798094" role=""/>
     <member type="way" ref="247763735" role=""/>
-    <member type="way" ref="237884541" role="forward"/>
+    <member type="way" ref="613844168" role=""/>
+    <member type="way" ref="612809426" role=""/>
     <member type="way" ref="372346092" role="forward"/>
     <member type="way" ref="297297452" role="forward"/>
     <member type="way" ref="324606463" role="forward"/>
-    <member type="way" ref="237884536" role="forward"/>
-    <member type="way" ref="237884538" role="backward"/>
     <member type="way" ref="323159093" role="backward"/>
-    <member type="way" ref="237884539" role="backward"/>
     <member type="way" ref="26728062" role=""/>
     <member type="way" ref="42160804" role=""/>
     <member type="way" ref="26728040" role=""/>
@@ -8238,8 +8413,9 @@
     <member type="way" ref="516423618" role=""/>
     <member type="way" ref="516423621" role=""/>
     <member type="way" ref="508760556" role=""/>
-    <member type="way" ref="508760557" role=""/>
     <member type="way" ref="508760552" role=""/>
+    <member type="way" ref="613432372" role=""/>
+    <member type="way" ref="612809428" role=""/>
     <member type="way" ref="516458688" role=""/>
     <member type="way" ref="516500460" role=""/>
     <member type="way" ref="516462917" role=""/>
@@ -8269,7 +8445,6 @@
     <member type="way" ref="26728455" role=""/>
     <member type="way" ref="203138758" role=""/>
     <member type="way" ref="528787770" role=""/>
-    <member type="way" ref="528798094" role=""/>
     <member type="way" ref="450887321" role=""/>
     <member type="way" ref="528787773" role=""/>
     <tag k="description" v="Tramo Armenia-La Línea"/>
@@ -8406,7 +8581,8 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5536634" version="36" timestamp="2018-04-29T04:57:56Z" changeset="58518226" uid="1401762" user="juanda097">
+  <relation id="5536634" version="38" timestamp="2018-06-09T15:52:36Z" changeset="59693932" uid="1760513" user="jesus2784">
+    <member type="node" ref="5667446550" role=""/>
     <member type="way" ref="232400912" role=""/>
     <member type="way" ref="308164222" role=""/>
     <member type="way" ref="337345132" role=""/>
@@ -8468,6 +8644,8 @@
     <member type="way" ref="351039030" role=""/>
     <member type="way" ref="306349474" role=""/>
     <member type="way" ref="509981890" role=""/>
+    <member type="way" ref="595879582" role=""/>
+    <member type="way" ref="595879581" role=""/>
     <member type="way" ref="83723602" role=""/>
     <member type="way" ref="83720816" role=""/>
     <member type="way" ref="329253509" role=""/>
@@ -8618,7 +8796,8 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5548680" version="4" timestamp="2018-01-05T15:32:02Z" changeset="55189749" uid="89128" user="AngocA">
+  <relation id="5548680" version="5" timestamp="2018-05-24T08:38:43Z" changeset="59234549" uid="2533093" user="carciofo">
+    <member type="way" ref="324850553" role=""/>
     <member type="way" ref="460264285" role=""/>
     <member type="way" ref="460264284" role=""/>
     <member type="way" ref="182398021" role=""/>
@@ -8641,7 +8820,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5548681" version="11" timestamp="2017-07-30T17:17:10Z" changeset="50698744" uid="4534780" user="waterresource">
+  <relation id="5548681" version="12" timestamp="2018-05-25T20:10:50Z" changeset="59281276" uid="2533093" user="carciofo">
     <member type="way" ref="49580006" role=""/>
     <member type="way" ref="461079216" role=""/>
     <member type="way" ref="461079215" role=""/>
@@ -8715,8 +8894,6 @@
     <member type="way" ref="461079139" role=""/>
     <member type="way" ref="511534617" role=""/>
     <member type="way" ref="511534614" role=""/>
-    <member type="way" ref="461079141" role=""/>
-    <member type="way" ref="461079142" role=""/>
     <member type="way" ref="461079133" role=""/>
     <member type="way" ref="461079132" role=""/>
     <member type="way" ref="461079134" role=""/>
@@ -8909,7 +9086,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="5862123" version="2" timestamp="2017-11-03T15:46:45Z" changeset="53482403" uid="2533093" user="carciofo">
+  <relation id="5862123" version="3" timestamp="2018-07-31T05:43:01Z" changeset="61216212" uid="390924" user="euryoekie">
     <member type="way" ref="391241274" role=""/>
     <member type="way" ref="391241273" role=""/>
     <member type="way" ref="391241272" role=""/>
@@ -8917,6 +9094,7 @@
     <member type="way" ref="391241270" role=""/>
     <member type="way" ref="222844048" role=""/>
     <member type="way" ref="222844047" role=""/>
+    <member type="way" ref="612501003" role=""/>
     <member type="way" ref="391241269" role=""/>
     <member type="way" ref="87229304" role=""/>
     <member type="way" ref="176084014" role=""/>
@@ -9323,7 +9501,8 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6040159" version="9" timestamp="2017-11-03T19:31:29Z" changeset="53487614" uid="2533093" user="carciofo">
+  <relation id="6040159" version="10" timestamp="2018-07-21T05:56:08Z" changeset="60923648" uid="8422148" user="CHIBCHAMuisca">
+    <member type="way" ref="609658802" role=""/>
     <member type="relation" ref="6379004" role=""/>
     <member type="relation" ref="7705838" role=""/>
     <member type="relation" ref="6056393" role=""/>
@@ -9911,7 +10090,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6285711" version="11" timestamp="2018-02-18T03:08:35Z" changeset="56453781" uid="1009211" user="nicolas17">
+  <relation id="6285711" version="13" timestamp="2018-08-06T14:33:03Z" changeset="61406617" uid="1759764" user="SirWeigel">
     <member type="way" ref="24599058" role="forward"/>
     <member type="way" ref="534033937" role="forward"/>
     <member type="way" ref="337229719" role="forward"/>
@@ -9930,7 +10109,12 @@
     <member type="way" ref="481058087" role="forward"/>
     <member type="way" ref="39702737" role="forward"/>
     <member type="way" ref="562112690" role="forward"/>
+    <member type="way" ref="614495946" role="forward"/>
     <member type="way" ref="128830333" role="forward"/>
+    <member type="way" ref="28808335" role="link"/>
+    <member type="way" ref="39702739" role="link"/>
+    <member type="way" ref="337229720" role="link"/>
+    <member type="way" ref="534033934" role="link"/>
     <member type="way" ref="41518233" role=""/>
     <member type="way" ref="232459974" role=""/>
     <member type="way" ref="198278741" role=""/>
@@ -9984,10 +10168,6 @@
     <member type="way" ref="25497636" role=""/>
     <member type="way" ref="189727217" role=""/>
     <member type="way" ref="61799433" role=""/>
-    <member type="way" ref="28808335" role="link"/>
-    <member type="way" ref="39702739" role="link"/>
-    <member type="way" ref="337229720" role="link"/>
-    <member type="way" ref="534033934" role="link"/>
     <member type="way" ref="128830331" role="link"/>
     <member type="way" ref="94244520" role="link"/>
     <member type="way" ref="39702736" role="link"/>
@@ -10090,7 +10270,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6287315" version="7" timestamp="2018-03-04T18:42:04Z" changeset="56878079" uid="927170" user="cris_1994">
+  <relation id="6287315" version="9" timestamp="2018-06-07T14:47:17Z" changeset="59640224" uid="3265371" user="Andrew Matheny">
     <member type="way" ref="254170148" role=""/>
     <member type="way" ref="83375634" role=""/>
     <member type="way" ref="83267143" role=""/>
@@ -10102,6 +10282,7 @@
     <member type="way" ref="83266899" role=""/>
     <member type="way" ref="83270505" role=""/>
     <member type="way" ref="24670012" role=""/>
+    <member type="way" ref="590826619" role=""/>
     <member type="way" ref="24670009" role=""/>
     <member type="way" ref="24670008" role=""/>
     <member type="way" ref="24670007" role=""/>
@@ -10110,6 +10291,7 @@
     <member type="way" ref="24670006" role=""/>
     <member type="way" ref="24670001" role=""/>
     <member type="way" ref="92359791" role=""/>
+    <member type="way" ref="24669996" role=""/>
     <member type="way" ref="24669996" role=""/>
     <member type="way" ref="91276210" role="forward"/>
     <member type="way" ref="91276220" role="forward"/>
@@ -10638,8 +10820,9 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6379004" version="11" timestamp="2018-01-08T03:08:28Z" changeset="55252640" uid="927170" user="cris_1994">
-    <member type="way" ref="528169734" role="forward"/>
+  <relation id="6379004" version="16" timestamp="2018-07-28T06:17:01Z" changeset="61135595" uid="1759764" user="SirWeigel">
+    <member type="way" ref="487491309" role="forward"/>
+    <member type="way" ref="601794960" role="forward"/>
     <member type="way" ref="39702742" role="forward"/>
     <member type="way" ref="528175369" role="forward"/>
     <member type="way" ref="528175370" role="forward"/>
@@ -10704,6 +10887,7 @@
     <member type="way" ref="510272827" role="forward"/>
     <member type="way" ref="510272828" role="forward"/>
     <member type="way" ref="42450602" role="forward"/>
+    <member type="way" ref="605103388" role="forward"/>
     <member type="way" ref="42450600" role="forward"/>
     <member type="way" ref="42450598" role="forward"/>
     <member type="way" ref="24599047" role="forward"/>
@@ -10762,15 +10946,11 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6384715" version="9" timestamp="2018-05-08T19:49:15Z" changeset="58798775" uid="8090417" user="n1y0m1">
+  <relation id="6384715" version="10" timestamp="2018-06-12T23:48:42Z" changeset="59793619" uid="1734378" user="xcilin">
     <member type="way" ref="77372743" role=""/>
     <member type="way" ref="77372762" role=""/>
-    <member type="way" ref="511587941" role=""/>
-    <member type="way" ref="77372714" role=""/>
     <member type="way" ref="511587936" role=""/>
-    <member type="way" ref="511587937" role=""/>
     <member type="way" ref="511587938" role=""/>
-    <member type="way" ref="511587939" role=""/>
     <member type="way" ref="511587940" role=""/>
     <member type="way" ref="511587935" role=""/>
     <member type="way" ref="511587934" role=""/>
@@ -10954,7 +11134,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="6393056" version="15" timestamp="2018-05-03T18:27:19Z" changeset="58656498" uid="8090417" user="n1y0m1">
+  <relation id="6393056" version="18" timestamp="2018-07-09T20:12:46Z" changeset="60551672" uid="1759764" user="SirWeigel">
     <member type="way" ref="24020491" role=""/>
     <member type="way" ref="372763066" role=""/>
     <member type="way" ref="405533266" role="forward"/>
@@ -11060,15 +11240,13 @@
     <member type="way" ref="91911363" role=""/>
     <member type="way" ref="91911358" role=""/>
     <member type="way" ref="91911388" role=""/>
-    <member type="way" ref="114771737" role=""/>
-    <member type="way" ref="91911426" role=""/>
-    <member type="way" ref="114771739" role=""/>
+    <member type="way" ref="606479911" role=""/>
     <member type="way" ref="114771738" role=""/>
-    <member type="way" ref="114771740" role=""/>
-    <member type="way" ref="24022009" role=""/>
-    <member type="way" ref="91495219" role=""/>
-    <member type="way" ref="91495238" role=""/>
     <member type="way" ref="24022008" role=""/>
+    <member type="way" ref="91894067" role=""/>
+    <member type="way" ref="114771740" role=""/>
+    <member type="way" ref="114771739" role=""/>
+    <member type="way" ref="91911426" role=""/>
     <tag k="description" v="Tramo Honda-Villeta-Tobiagrande-Bogotá"/>
     <tag k="distance" v="147.51"/>
     <tag k="name" v="50-08"/>
@@ -11418,7 +11596,7 @@
     <tag k="type" v="route"/>
     <tag k="unsigned_ref" v="40 TL D"/>
   </relation>
-  <relation id="7416442" version="4" timestamp="2017-12-19T19:47:36Z" changeset="54769144" uid="927170" user="cris_1994">
+  <relation id="7416442" version="5" timestamp="2018-06-07T02:16:09Z" changeset="59618605" uid="927170" user="cris_1994">
     <member type="way" ref="322776957" role=""/>
     <member type="way" ref="322776954" role=""/>
     <member type="way" ref="449125890" role=""/>
@@ -11430,12 +11608,13 @@
     <member type="way" ref="547990961" role=""/>
     <member type="way" ref="547990966" role=""/>
     <member type="way" ref="547990939" role=""/>
-    <tag k="description" v="Perimetral de la Sabana (Chusacá - Canoas - Río Bogotá)"/>
+    <tag k="description" v="Chusacá - Canoas - Río Bogotá (Perimetral de la Sabana)"/>
+    <tag k="distance" v="14.55"/>
     <tag k="name" v="40 CN 07"/>
     <tag k="network" v="co:national"/>
+    <tag k="ref" v="40"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
-    <tag k="unsigned_ref" v="40 CN 07"/>
   </relation>
   <relation id="7416443" version="1" timestamp="2017-07-24T18:38:23Z" changeset="50536435" uid="2533093" user="carciofo">
     <member type="way" ref="509981895" role=""/>
@@ -11572,10 +11751,12 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="7627811" version="16" timestamp="2017-11-20T02:54:02Z" changeset="53937500" uid="927170" user="cris_1994">
+  <relation id="7627811" version="17" timestamp="2018-07-08T15:55:45Z" changeset="60512623" uid="3938552" user="CamiloBermúdez">
     <member type="way" ref="530082242" role="forward"/>
     <member type="way" ref="530082241" role="forward"/>
     <member type="way" ref="293128579" role=""/>
+    <member type="way" ref="606106143" role=""/>
+    <member type="way" ref="606106142" role=""/>
     <member type="way" ref="199649018" role=""/>
     <member type="way" ref="498695675" role=""/>
     <member type="way" ref="498695674" role=""/>
@@ -12389,19 +12570,19 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="7749625" version="2" timestamp="2017-11-21T13:16:13Z" changeset="53975642" uid="2533093" user="carciofo">
+  <relation id="7749625" version="3" timestamp="2018-05-28T16:16:03Z" changeset="59344835" uid="7093338" user="-Schwarz-">
     <member type="way" ref="402177881" role="forward"/>
     <member type="way" ref="402177880" role="forward"/>
     <member type="way" ref="542071918" role="link"/>
     <member type="way" ref="402177877" role="link"/>
     <member type="way" ref="542071915" role="link"/>
     <member type="way" ref="542071912" role="link"/>
-    <member type="way" ref="542071905" role="link"/>
-    <member type="way" ref="542071908" role="link"/>
     <member type="way" ref="542071903" role="link"/>
     <member type="way" ref="402177883" role="link"/>
     <member type="way" ref="542071898" role="link"/>
     <member type="way" ref="542071901" role="link"/>
+    <member type="way" ref="555893807" role="link"/>
+    <member type="way" ref="555893806" role="link"/>
     <tag k="description" v="Tramo Sabana - Palmar de Varela"/>
     <tag k="name" v="90 AT 01"/>
     <tag k="network" v="co:national"/>
@@ -12460,7 +12641,7 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="7874827" version="4" timestamp="2018-03-22T21:47:57Z" changeset="57438690" uid="4240913" user="Corban8">
+  <relation id="7874827" version="5" timestamp="2018-07-12T17:17:04Z" changeset="60660365" uid="2533093" user="carciofo">
     <member type="way" ref="550874881" role=""/>
     <member type="way" ref="550874883" role=""/>
     <member type="way" ref="485759955" role=""/>
@@ -12547,6 +12728,7 @@
     <member type="way" ref="571827707" role=""/>
     <member type="way" ref="571827708" role=""/>
     <member type="way" ref="571827706" role=""/>
+    <member type="way" ref="607458933" role=""/>
     <member type="way" ref="382886142" role=""/>
     <member type="way" ref="571827701" role=""/>
     <member type="way" ref="571827700" role=""/>
@@ -12568,6 +12750,10 @@
     <member type="way" ref="447230458" role=""/>
     <member type="way" ref="382886141" role=""/>
     <member type="way" ref="320096044" role=""/>
+    <member type="way" ref="607458932" role=""/>
+    <member type="way" ref="607458931" role=""/>
+    <member type="way" ref="607458929" role=""/>
+    <member type="way" ref="607458930" role=""/>
     <member type="way" ref="571523164" role=""/>
     <member type="way" ref="571523165" role=""/>
     <member type="way" ref="320096047" role=""/>
@@ -12587,6 +12773,10 @@
     <member type="way" ref="495058325" role=""/>
     <member type="way" ref="320096054" role=""/>
     <member type="way" ref="320096027" role=""/>
+    <member type="way" ref="447230485" role="link"/>
+    <member type="way" ref="571827725" role="link"/>
+    <member type="way" ref="437261057" role="link"/>
+    <member type="way" ref="447220036" role="link"/>
     <tag k="description" v="Tramo Puente Aurra - Medelln"/>
     <tag k="distance" v="50.8"/>
     <tag k="name" v="62-04A"/>
@@ -12595,11 +12785,13 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="7875144" version="1" timestamp="2018-01-04T15:28:52Z" changeset="55161024" uid="2533093" user="carciofo">
+  <relation id="7875144" version="2" timestamp="2018-07-06T20:07:11Z" changeset="60476582" uid="2414496" user="shepherdator">
     <member type="way" ref="340209613" role="forward"/>
     <member type="way" ref="315150024" role="forward"/>
     <member type="way" ref="315150023" role="forward"/>
     <member type="way" ref="340209612" role="forward"/>
+    <member type="way" ref="605717083" role="forward"/>
+    <member type="way" ref="605717084" role="forward"/>
     <member type="way" ref="533073226" role="forward"/>
     <member type="way" ref="533073225" role="forward"/>
     <member type="way" ref="458601486" role="forward"/>
@@ -12627,6 +12819,8 @@
     <member type="way" ref="533073228" role="forward"/>
     <member type="way" ref="533073227" role="forward"/>
     <member type="way" ref="458609598" role="forward"/>
+    <member type="way" ref="605717089" role="forward"/>
+    <member type="way" ref="605717087" role="forward"/>
     <member type="way" ref="340209614" role="forward"/>
     <member type="way" ref="315150021" role="forward"/>
     <member type="way" ref="315150020" role="forward"/>
@@ -12760,56 +12954,6 @@
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
-  <relation id="8001485" version="1" timestamp="2018-02-08T15:23:26Z" changeset="56186376" uid="2678395" user="arturogutipi">
-    <member type="way" ref="24669996" role=""/>
-    <member type="way" ref="92359791" role=""/>
-    <member type="way" ref="24670001" role=""/>
-    <member type="way" ref="24670006" role=""/>
-    <member type="way" ref="91243647" role=""/>
-    <member type="way" ref="91243653" role=""/>
-    <member type="way" ref="24670007" role=""/>
-    <member type="way" ref="24670008" role=""/>
-    <member type="way" ref="24670009" role=""/>
-    <member type="way" ref="24670012" role=""/>
-    <member type="way" ref="83270505" role=""/>
-    <member type="way" ref="83266921" role=""/>
-    <member type="way" ref="340247371" role=""/>
-    <member type="way" ref="83267015" role=""/>
-    <member type="way" ref="91239292" role=""/>
-    <member type="way" ref="91239307" role=""/>
-    <member type="way" ref="91239305" role=""/>
-    <member type="way" ref="91239291" role=""/>
-    <member type="way" ref="24669998" role=""/>
-    <member type="way" ref="91239294" role=""/>
-    <member type="way" ref="24669984" role=""/>
-    <member type="way" ref="65934568" role=""/>
-    <member type="way" ref="82157655" role=""/>
-    <member type="way" ref="404047774" role=""/>
-    <member type="way" ref="559779861" role=""/>
-    <member type="way" ref="340132534" role=""/>
-    <member type="way" ref="559779862" role=""/>
-    <member type="way" ref="55932043" role=""/>
-    <member type="way" ref="436232638" role=""/>
-    <member type="way" ref="54516620" role=""/>
-    <member type="way" ref="440526953" role=""/>
-    <member type="way" ref="440526952" role=""/>
-    <member type="way" ref="441828266" role=""/>
-    <member type="way" ref="441828269" role=""/>
-    <member type="way" ref="483214284" role=""/>
-    <member type="way" ref="254754599" role=""/>
-    <member type="way" ref="442971045" role=""/>
-    <member type="way" ref="442460288" role=""/>
-    <member type="way" ref="444486017" role=""/>
-    <member type="way" ref="444486016" role=""/>
-    <member type="way" ref="29683107" role=""/>
-    <member type="way" ref="422820980" role=""/>
-    <member type="way" ref="441839812" role=""/>
-    <member type="way" ref="422820981" role=""/>
-    <tag k="name" v="Duitama-Barbosa-San Gil"/>
-    <tag k="network" v="co:national"/>
-    <tag k="route" v="road"/>
-    <tag k="type" v="route"/>
-  </relation>
   <relation id="8110435" version="2" timestamp="2018-03-13T23:37:27Z" changeset="57161711" uid="927170" user="cris_1994">
     <member type="way" ref="480030650" role=""/>
     <member type="way" ref="480031105" role=""/>
@@ -12842,6 +12986,18 @@
     <tag k="name" v="70-09"/>
     <tag k="network" v="co:national"/>
     <tag k="ref" v="70"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="8328365" version="1" timestamp="2018-05-25T21:38:46Z" changeset="59282882" uid="2533093" user="carciofo">
+    <member type="way" ref="552256206" role="forward"/>
+    <member type="way" ref="552256207" role="forward"/>
+    <member type="way" ref="552256220" role=""/>
+    <member type="way" ref="552256211" role="forward"/>
+    <member type="way" ref="552256213" role="forward"/>
+    <tag k="description" v="Variante Carepa"/>
+    <tag k="name" v="62 AN D"/>
+    <tag k="network" v="co:national"/>
     <tag k="route" v="road"/>
     <tag k="type" v="route"/>
   </relation>
