@@ -98,11 +98,11 @@
       <timestamp>2018-10-05T18:35:08Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="7353283" name="21 CR A" description="Variante Oriental de Montería" ref="" unsigned_ref="" osm_element_version="2">
+  <route osm_relation_id="7353283" name="21 CR A" description="Variante Oriental de Montería" ref="" unsigned_ref="" osm_element_version="3">
     <last_changeset>
-      <id>53481320</id>
+      <id>69697172</id>
       <user>carciofo</user>
-      <timestamp>2017-11-03T15:01:34Z</timestamp>
+      <timestamp>2019-04-29T13:51:59Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4740187" name="21-03" description="Tramo Montería-Lorica" ref="21" unsigned_ref="" osm_element_version="8">
@@ -147,25 +147,25 @@
       <timestamp>2018-11-09T01:51:04Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4856101" name="23-01" description="Tramo Cali - Mediacanoa" ref="23" unsigned_ref="" osm_element_version="31">
+  <route osm_relation_id="4856101" name="23-01" description="Tramo Cali - Mediacanoa" ref="23" unsigned_ref="" osm_element_version="32">
     <last_changeset>
-      <id>67687322</id>
-      <user>cris_1994</user>
-      <timestamp>2019-03-01T14:47:54Z</timestamp>
+      <id>69697172</id>
+      <user>carciofo</user>
+      <timestamp>2019-04-29T13:51:59Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4546558" name="23-02" description="Tramo Mediacanoa-La Unión-La Virginia" ref="23" unsigned_ref="" osm_element_version="22">
+  <route osm_relation_id="4546558" name="23-02" description="Tramo Mediacanoa-La Unión-La Virginia" ref="23" unsigned_ref="" osm_element_version="23">
     <last_changeset>
-      <id>67783853</id>
-      <user>cris_1994</user>
-      <timestamp>2019-03-04T21:57:24Z</timestamp>
+      <id>69697172</id>
+      <user>carciofo</user>
+      <timestamp>2019-04-29T13:51:58Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4856102" name="23-10" description="Tramo Planeta Rica-Montería" ref="23" unsigned_ref="" osm_element_version="5">
+  <route osm_relation_id="4856102" name="23-10" description="Tramo Planeta Rica-Montería" ref="23" unsigned_ref="" osm_element_version="6">
     <last_changeset>
-      <id>67940169</id>
-      <user>CapAhab</user>
-      <timestamp>2019-03-08T21:02:13Z</timestamp>
+      <id>69697172</id>
+      <user>carciofo</user>
+      <timestamp>2019-04-29T13:51:59Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5231882" name="24 HL 01" description="Puerto Nolasco-Nátaga" ref="" unsigned_ref="24 HL 01" osm_element_version="2">
@@ -203,13 +203,6 @@
       <timestamp>2018-09-03T20:31:17Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="7852885" name="25 AN A" description="Paso por Caldas" ref="25" unsigned_ref="" osm_element_version="3">
-    <last_changeset>
-      <id>66084610</id>
-      <user>cris_1994</user>
-      <timestamp>2019-01-07T02:38:45Z</timestamp>
-    </last_changeset>
-  </route>
   <route osm_relation_id="9525485" name="25 AT 04" description="Cruce Ruta 25 (Villa Maria) - Cruce Ruta 90A (Cienaga de Rincón)" ref="" unsigned_ref="" osm_element_version="1">
     <last_changeset>
       <id>69686761</id>
@@ -217,11 +210,11 @@
       <timestamp>2019-04-29T08:54:15Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="7749658" name="25 AT A" description="Variante Palmar de Varela - Sabanagrande" ref="" unsigned_ref="" osm_element_version="6">
+  <route osm_relation_id="7749658" name="25 AT A" description="Variante Palmar de Varela - Sabanagrande" ref="" unsigned_ref="" osm_element_version="7">
     <last_changeset>
-      <id>68274717</id>
-      <user>CapAhab</user>
-      <timestamp>2019-03-18T22:23:25Z</timestamp>
+      <id>69698589</id>
+      <user>carciofo</user>
+      <timestamp>2019-04-29T14:26:44Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="5253890" name="25 BL 02" description="Carreto-Cruz del Visto" ref="" unsigned_ref="25 BL 02" osm_element_version="2">
@@ -1970,11 +1963,11 @@
       <timestamp>2018-11-18T01:44:11Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4771045" name="74-02" description="Tramo Cereté - Cruce Ruta 25 (La Ye)" ref="74" unsigned_ref="" osm_element_version="9">
+  <route osm_relation_id="4771045" name="74-02" description="Tramo Cereté - Cruce Ruta 25 (La Ye)" ref="74" unsigned_ref="" osm_element_version="10">
     <last_changeset>
-      <id>67977290</id>
-      <user>JLOSM</user>
-      <timestamp>2019-03-10T03:12:39Z</timestamp>
+      <id>69698004</id>
+      <user>carciofo</user>
+      <timestamp>2019-04-29T14:12:53Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="6056655" name="74-03" description="Tramo El Viajano - Guayepo" ref="74" unsigned_ref="" osm_element_version="4">
@@ -2195,11 +2188,11 @@
       <timestamp>2018-02-06T19:06:56Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="7706187" name="90A-01" description="Tramo Cartagena - Lomita Arena - Barranquilla" ref="90A" unsigned_ref="" osm_element_version="18">
+  <route osm_relation_id="7706187" name="90A-01" description="Tramo Cartagena - Lomita Arena - Barranquilla" ref="90A" unsigned_ref="" osm_element_version="19">
     <last_changeset>
-      <id>69686283</id>
+      <id>69699547</id>
       <user>carciofo</user>
-      <timestamp>2019-04-29T08:39:39Z</timestamp>
+      <timestamp>2019-04-29T14:47:03Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="4751005" name="Ruta Nacional 01" description="Circunvalación Isla de San Andrés" ref="01" unsigned_ref="" osm_element_version="3">
