@@ -932,6 +932,13 @@
       <timestamp>2017-10-29T19:57:33Z</timestamp>
     </last_changeset>
   </route>
+  <route osm_relation_id="8539846" name="45 BY 01" description="Ramal a Puerto Boyacá" ref="" unsigned_ref="" osm_element_version="1">
+    <last_changeset>
+      <id>61748042</id>
+      <user>carciofo</user>
+      <timestamp>2018-08-17T14:15:24Z</timestamp>
+    </last_changeset>
+  </route>
   <route osm_relation_id="7190924" name="45 CS 09" description="Tramo Cuatrovientos - Codazzi" ref="" unsigned_ref="45 CS 09" osm_element_version="1">
     <last_changeset>
       <id>48164926</id>
@@ -2262,11 +2269,11 @@
       <timestamp>2017-04-26T16:44:39Z</timestamp>
     </last_changeset>
   </route>
-  <route osm_relation_id="4765177" name="Ruta Nacional 45 (super)" description="" ref="45" unsigned_ref="" osm_element_version="13">
+  <route osm_relation_id="4765177" name="Ruta Nacional 45 (super)" description="" ref="45" unsigned_ref="" osm_element_version="14">
     <last_changeset>
-      <id>53482840</id>
+      <id>61748042</id>
       <user>carciofo</user>
-      <timestamp>2017-11-03T16:04:28Z</timestamp>
+      <timestamp>2018-08-17T14:15:27Z</timestamp>
     </last_changeset>
   </route>
   <route osm_relation_id="6285724" name="Ruta Nacional 45A (super)" description="" ref="45A" unsigned_ref="" osm_element_version="6">
